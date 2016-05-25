@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:ns="http://standoff.proposal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="fr">Synthèse et résolution structurale d'un nouveau sel à transfert de charge associant l'anion organique ABTS<hi rend="superscript">2-</hi> et son radical ABTS<hi rend="superscript">.-</hi> avec le cation inorganique La<hi rend="superscript">3+</hi>:La<hi rend="subscript">3</hi>(ABTS)<hi rend="subscript">5</hi>(H<hi rend="subscript">2</hi>O)<hi rend="subscript">31</hi>
+         </title>
+         <title type="alt" xml:lang="en">Synthesis and structure determination of a new charge transfer salt associating the organic anion ABTS<hi rend="superscript">2-</hi> and its radical anion ABTS<hi rend="superscript">.-</hi> with the inorganic cation la<hi rend="superscript">3+</hi>:La<hi rend="subscript">3</hi>(ABTS)<hi rend="subscript">5</hi>(H<hi rend="subscript">2</hi>O)<hi rend="subscript">31</hi>
+      </title>
+      <respStmt>
+         <resp>Extraction de la base Inist Exodic</resp>
+         <persName>
+            <forename>Flora</forename>
+            <surname>Badin</surname>
+         </persName>
+         <persName>
+            <forename>Nicolas</forename>
+            <surname>Thouvenin</surname>
+         </persName>
+         <persName>
+            <forename>Nourdine</forename>
+            <surname>Combo</surname>
+         </persName>
+         <persName>
+            <forename>Sabine</forename>
+            <surname>Barreaux</surname>
+         </persName>
+      </respStmt>
+   </titleStmt>
+   <publicationStmt>
+      <authority>
+         <orgName>Inist-CNRS</orgName>
+         <orgName>Lina</orgName>
+         <orgName>Inria</orgName>
+      </authority>
+      <availability n="licenceCC">
+         <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>The Creative Commons Attribution 4.0 International License applies to this document.</p>
+            <p>Any re-use of this resource should attribute its content to 
+               <q>Corpus Termith-Eval created in the framework of the TermITH-project 
+                  (ANR-12-CORD-0029) under the responsibility of INIST-CNRS, LINA, INRIA</q>
+            </p>
+         </licence>
+      </availability>
+      <idno type="inistIdentifier">02-0137965</idno>
+   </publicationStmt>
+   <sourceDesc>
+      <biblStruct type="article">
+         <analytic>
+            <title type="main" xml:lang="fr">Synthèse et résolution structurale d'un nouveau sel à transfert de charge associant l'anion organique ABTS<hi rend="superscript">2-</hi> et son radical ABTS<hi rend="superscript">.-</hi> avec le cation inorganique La<hi rend="superscript">3+</hi>:La<hi rend="subscript">3</hi>(ABTS)<hi rend="subscript">5</hi>(H<hi rend="subscript">2</hi>O)<hi rend="subscript">31</hi>
+         </title>
+         <title type="alt" xml:lang="en">Synthesis and structure determination of a new charge transfer salt associating the organic anion ABTS<hi rend="superscript">2-</hi> and its radical anion ABTS<hi rend="superscript">.-</hi> with the inorganic cation la<hi rend="superscript">3+</hi>:La<hi rend="subscript">3</hi>(ABTS)<hi rend="subscript">5</hi>(H<hi rend="subscript">2</hi>O)<hi rend="subscript">31</hi>
+      </title>
+      <author>
+         <persName>
+            <forename>Annaig</forename>
+            <surname>DENIS</surname>
+         </persName>
+         <affiliation>
+            <orgName>« Chimie des solides », UMR CNRS 6502, Institut des matériaux Jean-Rouxel, 2, rue de la Houssinière, BP 32229</orgName>
+            <address>
+               <settlement>44322 Nantes</settlement>
+               <country>FR</country>
+            </address>
+         </affiliation>
+      </author>
+      <author>
+         <persName>
+            <forename>Pierre</forename>
+            <surname>PALVADEAU</surname>
+         </persName>
+         <affiliation>
+            <orgName>« Chimie des solides », UMR CNRS 6502, Institut des matériaux Jean-Rouxel, 2, rue de la Houssinière, BP 32229</orgName>
+            <address>
+               <settlement>44322 Nantes</settlement>
+               <country>FR</country>
+            </address>
+         </affiliation>
+      </author>
+      <author>
+         <persName>
+            <forename>Philippe</forename>
+            <surname>MOLINIE</surname>
+         </persName>
+         <affiliation>
+            <orgName>« Chimie des solides », UMR CNRS 6502, Institut des matériaux Jean-Rouxel, 2, rue de la Houssinière, BP 32229</orgName>
+            <address>
+               <settlement>44322 Nantes</settlement>
+               <country>FR</country>
+            </address>
+         </affiliation>
+      </author>
+      <author>
+         <persName>
+            <forename>Kamal</forename>
+            <surname>BOUBEKEUR</surname>
+         </persName>
+         <affiliation>
+            <orgName>FRE CNRS 2068, 2, rue de la Houssinière, BP 32229</orgName>
+            <address>
+               <settlement>44322 Nantes</settlement>
+               <country>FR</country>
+            </address>
+         </affiliation>
+      </author>
+   </analytic>
+   <monogr>
+      <title level="j" type="main">Comptes rendus de l'académie des sciences. Serie IIc, chimie</title>
+      <idno type="issn">1387-1609</idno>
+      <idno type="url">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=14133801</idno>
+      <meeting/>
+      <imprint>
+         <pubPlace>
+            <settlement>Paris</settlement>
+            <country>FR</country>
+         </pubPlace>
+         <biblScope unit="volume">4</biblScope>
+         <biblScope unit="issue">12</biblScope>
+         <biblScope unit="pp" from="913" to="916">913-916</biblScope>
+         <date type="published" when="2001">2001</date>
+      </imprint>
+   </monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>TermITH (ANR-12-CORD-0029 - Contint) est un projet ANR se déroulant sur 3 ans et demi
+   (2012 - 2016) avec pour objectif de faciliter l'indexation automatique de textes en
+   sciences humaines et sociales en français en s'appuyant sur les termes qu'ils
+   contiennent.</p>
+<p>Le présent document fait partie du corpus TermITH-Eval sur lequel différentes
+   méthodes d'indexation développées dans TermITH sont testées.</p>
+</projectDesc>
+<editorialDecl>
+<normalization>
+   <p>L'élément teiHeader contient la notice bibliographique de l'Inist-CNRS</p>
+   <p>Les éléments ns:standOff contiennent les résultats d'indexation produits par
+      différentes méthodes testées par le Lina</p>
+   <p>Les éléments ns:standOff/ns:standOff contiennent les évaluations réalisées par
+      l'Inist-CNRS sur ces indexations</p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="fr">fre</language>
+</langUsage>
+<textClass>
+<keywords scheme="cc">
+   <term key="001B60A66F7">Divers.</term>
+</keywords>
+<keywords scheme="inist-pascal" xml:lang="fr">
+   <term xml:id="ikwfr1" type="controlled" corresp="#Inorganiccompounds">Composé minéral</term>
+   <term xml:id="ikwfr2" type="controlled" corresp="#Lanthanidecompound">Composé de lanthanide</term>
+   <term xml:id="ikwfr3" type="uncontrolled">2,2p-Azinobenzothiazolinesulfonate(3,3p-diéthyl)</term>
+   <term xml:id="ikwfr4" type="controlled" corresp="#Sulfonates">Sulfonate</term>
+   <term xml:id="ikwfr5" type="controlled" corresp="#Bicycliccompound">Composé bicyclique</term>
+   <term xml:id="ikwfr6" type="controlled" corresp="#Sulfurheterocycle">Hétérocycle soufre</term>
+   <term xml:id="ikwfr7" type="controlled" corresp="#Mixedvalencecompounds">Composé valence mixte</term>
+   <term xml:id="ikwfr8" type="controlled" corresp="#Hydrates">Hydrate</term>
+   <term xml:id="ikwfr9" type="controlled" corresp="#Organicradicalanion">Radical libre organique anionique</term>
+   <term xml:id="ikwfr10" type="controlled" corresp="#Organicdianion">Dianion organique</term>
+   <term xml:id="ikwfr11" type="controlled" corresp="#Organicsalt">Sel organique</term>
+   <term xml:id="ikwfr12" type="controlled" corresp="#Lanthanumcompound">Composé du lanthane</term>
+   <term xml:id="ikwfr13" type="controlled" corresp="#Chargetransfercomplexes">Composé transfert charge</term>
+   <term xml:id="ikwfr14" type="controlled" corresp="#Molecularstructure">Structure moléculaire</term>
+   <term xml:id="ikwfr15" type="controlled" corresp="#Crystalstructure">Structure cristalline</term>
+   <term xml:id="ikwfr16" type="controlled" corresp="#XRD">Diffraction RX</term>
+   <term xml:id="ikwfr17" type="controlled" corresp="#Electrocrystallization">Electrocristallisation</term>
+   <term xml:id="ikwfr18" type="controlled" corresp="#Chemicalpreparation">Préparation chimique</term>
+   <term xml:id="ikwfr19" type="controlled" corresp="#Experimentalstudy">Etude expérimentale</term>
+</keywords>
+<keywords scheme="inist-pascal" xml:lang="en">
+   <term type="controlled" xml:id="Inorganiccompounds">Inorganic compounds</term>
+   <term type="controlled" xml:id="Lanthanidecompound">Lanthanide compound</term>
+   <term type="controlled" xml:id="Sulfonates">Sulfonates</term>
+   <term type="controlled" xml:id="Bicycliccompound">Bicyclic compound</term>
+   <term type="controlled" xml:id="Sulfurheterocycle">Sulfur heterocycle</term>
+   <term type="controlled" xml:id="Mixedvalencecompounds">Mixed-valence compounds</term>
+   <term type="controlled" xml:id="Hydrates">Hydrates</term>
+   <term type="controlled" xml:id="Organicradicalanion">Organic radical anion</term>
+   <term type="controlled" xml:id="Organicdianion">Organic dianion</term>
+   <term type="controlled" xml:id="Organicsalt">Organic salt</term>
+   <term type="controlled" xml:id="Lanthanumcompound">Lanthanum compound</term>
+   <term type="controlled" xml:id="Chargetransfercomplexes">Charge transfer complexes</term>
+   <term type="controlled" xml:id="Molecularstructure">Molecular structure</term>
+   <term type="controlled" xml:id="Crystalstructure">Crystal structure</term>
+   <term type="controlled" xml:id="XRD">XRD</term>
+   <term type="controlled" xml:id="Electrocrystallization">Electrocrystallization</term>
+   <term type="controlled" xml:id="Chemicalpreparation">Chemical preparation</term>
+   <term type="controlled" xml:id="Experimentalstudy">Experimental study</term>
+</keywords>
+</textClass>
+<abstract xml:lang="fr">
+<p>La synthèse par électrocristallisation d'un nouveau sel à transfert de charge entre l'anion organique ABTS<hi rend="superscript">2-</hi>, le radical anion ABTS<hi rend="superscript">.-</hi>(ABTS est le 2-2 azinobis-3 éthyl benzothiazoline sulfonate, sous la forme du sel d'ammonium (ABTS)(NH<hi rend="subscript">4</hi>)<hi rend="subscript">2</hi>.2 H<hi rend="subscript">2</hi>O) et le cation inorganique La<hi rend="superscript">3+</hi> a permis d'obtenir des monocristaux noirs en forme de plaquettes, correspondant à une phase de formulation La<hi rend="subscript">3</hi>(ABTS)<hi rend="subscript">5</hi>(H<hi rend="subscript">2</hi>O)<hi rend="subscript">31</hi>. La résolution structurale à 200 K a montré que cette phase était de symétrie triclinique, avec pour groupe spatial P1. Les paramètres de la maille cristalline sont: a = 18,342(4) Å, b = 17,720(4) Å, c = 20,394(4) Å, a = 87,97(3)°, β = 79,08(3)°, y = 85,21(3)°, V= 6 850(2) Å<hi rend="superscript">3</hi> et Z = 2. La structure cristalline présente un caractère bidimensionnel, basé sur une alternance de plans organiques et inorganiques. Un calcul de valence de liaison est en accord avec le degré d'oxydation du lanthane La<hi rend="superscript">3+</hi>. Ce composé est un complexe à valence mixte anionique, puisque sa formule, tenant compte de l'équilibre des charges, peut se mettre sous la forme: (La<hi rend="superscript">3+</hi>)<hi rend="subscript">3</hi>(ABTS<hi rend="superscript">2-</hi>)<hi rend="subscript">4</hi>(ABTS<hi rend="superscript">.-</hi>)<hi rend="subscript">1</hi>(H<hi rend="subscript">2</hi>O)<hi rend="subscript">31</hi>.</p>
+</abstract>
+</profileDesc>
+</teiHeader>
+<ns:standOff type="indexation-phase3">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+   <title>Evaluation de l'indexation TermITH - phase 3</title>
+   <author role="IndexingEditor">LINA</author>
+   <author role="IndexingEvaluator">INIST-CNRS</author>
+</titleStmt>
+<publicationStmt>
+   <distributor>INIST-CNRS</distributor>
+   <distributor>LINA</distributor>
+   <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+   <availability>
+      <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+   </availability>
+</publicationStmt>
+<sourceDesc>
+   <p>Indexation (phase 3) du document <ref target="#inistIdentifier"/> 
+      générée automatiquement dans le cadre du projet TermITH</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textDesc>
+   <channel mode="w"/>
+   <constitution type="composite"/>
+   <derivation type="original"/>
+   <domain>linguistique, archéologie, sciences de l'information, chimie</domain>
+   <factuality type="inapplicable"/>
+   <interaction type="inapplicable"/>
+   <preparedness type="formulaic"/>
+   <purpose>La phase 3 porte sur l'évaluation de l'indexation proposée par différentes 
+      méthodes exploitant la notice bibliographique (partie "teiHeader")</purpose>
+</textDesc>
+</profileDesc>
+<encodingDesc>
+<projectDesc>
+   <p>L'organisation des résultats d'indexation et de leur évaluation passe par plusieurs ns:standOff imbriqués.</p>
+   <p>Au deuxième niveau, on trouve un standOff par méthode appliquée.</p>
+   <p>Pour chaque standOff d'une méthode, typé par un xml:id dont la valeur indique la phase 
+      et la méthode, on trouve les termes-clés produits par la méthode dans un élément ns:listAnnotation 
+      et leur évaluation dans un standOff de troisième niveau.</p>
+   <p>Le standOff d'évaluation dispose de deux éléments ns:listAnnotation, l'un pour l'évaluation en 
+      pertinence, l'autre pour l'évaluation en silence.</p>
+</projectDesc>
+</encodingDesc>
+</teiHeader>
+<ns:standOff type="p3mi2">
+<teiHeader>
+<fileDesc>
+   <titleStmt>
+      <title>Indexation TermITH</title>
+      <author role="IndexingEditor">LINA</author>
+   </titleStmt>
+   <publicationStmt>
+      <distributor>INIST-CNRS</distributor>
+      <distributor>LINA</distributor>
+      <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+      <availability>
+         <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+      </availability>
+   </publicationStmt>
+   <sourceDesc>
+      <p>Indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+         générée automatiquement dans le cadre du projet TermITH</p>
+   </sourceDesc>
+</fileDesc>
+<encodingDesc>
+   <appInfo>
+      <application ident="lina-3:notice:topicrank:sequences_nom_adj" version="1.0">
+         <label>lina-3:notice:topicrank:sequences_nom_adj</label>
+      </application>
+   </appInfo>
+</encodingDesc>
+</teiHeader>
+<!-- termes-cles -->
+<ns:listAnnotation>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw1">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">cation inorganique la3+</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw2">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">abts</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw3">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">valence</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw4">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">la3</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw5">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">charge</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw6">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">nouveau sel</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw7">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">h2o</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw8">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">plans organiques</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw9">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">maille cristalline</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw10">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">calcul</term>
+      </tig>
+   </langSet>
+</termEntry>
+</ns:listAnnotation>
+<ns:standOff type="p3mi2-eval">
+<!--standOff subordonné au standOff principal-->
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Évaluation indexation</title>
+         <author role="IndexingEvaluator">INIST-CNRS</author>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>INIST-CNRS</distributor>
+         <distributor>LINA</distributor>
+         <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+         <availability>
+            <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+         </availability>
+      </publicationStmt>
+      <sourceDesc>
+         <p>Evaluation de l'indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+            générée automatiquement dans le cadre du projet TermITH</p>
+      </sourceDesc>
+   </fileDesc>
+   <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+      <appInfo>
+      <!--nom de l'outil d'évaluation-->
+         <application ident="idefix" version="7.9.1">
+            <label>idefix</label>
+         </application>
+      </appInfo>
+   </encodingDesc>
+</teiHeader>
+<ns:listAnnotation type="pertinence">
+   <span from="#p3mi2kw1">
+      <ptr type="INISTForm" target="#ikwfr12"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi2kw2">
+      <ptr type="INISTForm" target="#ikwfr3"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : 2-2 azinobis-3 éthyl benzothiazoline sulfonate</note>
+   </span>
+   <span from="#p3mi2kw3">
+      <ptr type="INISTForm" target="#ikwfr7"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi2kw4">
+      <fs>
+         <f name="pertinence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi2kw5">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : transfert de charge</note>
+   </span>
+   <span from="#p3mi2kw6">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : sel à transfert de charge</note>
+   </span>
+   <span from="#p3mi2kw7">
+      <ptr type="INISTForm" target="#ikwfr8"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : La3(ABTS)5(H2O)31</note>
+   </span>
+   <span from="#p3mi2kw8">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi2kw9">
+      <ptr type="INISTForm" target="#ikwfr15"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi2kw10">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+</ns:listAnnotation>
+<ns:listAnnotation type="silence">
+   <span from="#ikwfr1">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr2">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr3">
+      <ptr type="TermithForm" target="#p3mi2kw2"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr4">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr5">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr6">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr7">
+      <ptr type="TermithForm" target="#p3mi2kw3"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr8">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr9">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte :  radical anion </note>
+   </span>
+   <span from="#ikwfr10">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : anion organique</note>
+   </span>
+   <span from="#ikwfr11">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr12">
+      <ptr type="TermithForm" target="#p3mi2kw1"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr13">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : sel à transfert de charge</note>
+   </span>
+   <span from="#ikwfr14">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr15">
+      <ptr type="TermithForm" target="#p3mi2kw9"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr16">
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+      <note>(S) Notion absente du résumé.</note>
+   </span>
+   <span from="#ikwfr17">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr18">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : synthèse</note>
+   </span>
+   <span from="#ikwfr19">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+</ns:listAnnotation>
+</ns:standOff>
+</ns:standOff>
+<ns:standOff type="p3mi1">
+<teiHeader>
+<fileDesc>
+   <titleStmt>
+      <title>Indexation TermITH</title>
+      <author role="IndexingEditor">LINA</author>
+   </titleStmt>
+   <publicationStmt>
+      <distributor>INIST-CNRS</distributor>
+      <distributor>LINA</distributor>
+      <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+      <availability>
+         <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+      </availability>
+   </publicationStmt>
+   <sourceDesc>
+      <p>Indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+         générée automatiquement dans le cadre du projet TermITH</p>
+   </sourceDesc>
+</fileDesc>
+<encodingDesc>
+   <appInfo>
+      <application ident="lina-3:notice:tfidf:sequences_nom_adj" version="1.0">
+         <label>lina-3:notice:tfidf:sequences_nom_adj</label>
+      </application>
+   </appInfo>
+</encodingDesc>
+</teiHeader>
+<!-- termes-cles -->
+<ns:listAnnotation>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw1">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">abts</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw2">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">radical abts</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw3">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">abts2</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw4">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">h2o</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw5">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">lanthane la3+</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw6">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">sel</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw7">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">la3</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw8">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">abts.</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw9">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">cation inorganique la3+</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw10">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">valence</term>
+      </tig>
+   </langSet>
+</termEntry>
+</ns:listAnnotation>
+<ns:standOff type="p3mi1-eval">
+<!--standOff subordonné au standOff principal-->
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Évaluation indexation</title>
+         <author role="IndexingEvaluator">INIST-CNRS</author>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>INIST-CNRS</distributor>
+         <distributor>LINA</distributor>
+         <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+         <availability>
+            <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+         </availability>
+      </publicationStmt>
+      <sourceDesc>
+         <p>Evaluation de l'indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+            générée automatiquement dans le cadre du projet TermITH</p>
+      </sourceDesc>
+   </fileDesc>
+   <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+      <appInfo>
+      <!--nom de l'outil d'évaluation-->
+         <application ident="idefix" version="7.9.1">
+            <label>idefix</label>
+         </application>
+      </appInfo>
+   </encodingDesc>
+</teiHeader>
+<ns:listAnnotation type="pertinence">
+   <span from="#p3mi1kw1">
+      <ptr type="INISTForm" target="#ikwfr3"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : 2-2 azinobis-3 éthyl benzothiazoline sulfonate</note>
+   </span>
+   <span from="#p3mi1kw2">
+      <ptr type="INISTForm" target="#ikwfr9"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : radical anion ABTS.-</note>
+   </span>
+   <span from="#p3mi1kw3">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : ABTS2-</note>
+   </span>
+   <span from="#p3mi1kw4">
+      <ptr type="INISTForm" target="#ikwfr8"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : La3(ABTS)5(H2O)31</note>
+   </span>
+   <span from="#p3mi1kw5">
+      <ptr type="preferredForm" target="#p3mi1kw9"/>
+      <ptr type="INISTForm" target="#ikwfr12"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi1kw6">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : sel à transfert de charge</note>
+   </span>
+   <span from="#p3mi1kw7">
+      <fs>
+         <f name="pertinence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi1kw8">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : ABTS.-</note>
+   </span>
+   <span from="#p3mi1kw9">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi1kw10">
+      <ptr type="INISTForm" target="#ikwfr7"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+</ns:listAnnotation>
+<ns:listAnnotation type="silence">
+   <span from="#ikwfr1">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr2">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr3">
+      <ptr type="TermithForm" target="#p3mi1kw1"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr4">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr5">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr6">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr7">
+      <ptr type="TermithForm" target="#p3mi1kw10"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr8">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr9">
+      <ptr type="TermithForm" target="#p3mi1kw2"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr10">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : anion organique</note>
+   </span>
+   <span from="#ikwfr11">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr12">
+      <ptr type="TermithForm" target="#p3mi1kw5"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr13">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : sel à transfert de charge</note>
+   </span>
+   <span from="#ikwfr14">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr15">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr16">
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+      <note>(S) Notion absente du résumé.</note>
+   </span>
+   <span from="#ikwfr17">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr18">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : synthèse</note>
+   </span>
+   <span from="#ikwfr19">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+</ns:listAnnotation>
+</ns:standOff>
+</ns:standOff>
+<ns:standOff type="p3mi4">
+<teiHeader>
+<fileDesc>
+   <titleStmt>
+      <title>Indexation TermITH</title>
+      <author role="IndexingEditor">LINA</author>
+   </titleStmt>
+   <publicationStmt>
+      <distributor>INIST-CNRS</distributor>
+      <distributor>LINA</distributor>
+      <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+      <availability>
+         <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+      </availability>
+   </publicationStmt>
+   <sourceDesc>
+      <p>Indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+         générée automatiquement dans le cadre du projet TermITH</p>
+   </sourceDesc>
+</fileDesc>
+<encodingDesc>
+   <appInfo>
+      <application ident="lina-3:notice:kea:sequences_nom_adj" version="1.0">
+         <label>lina-3:notice:kea:sequences_nom_adj</label>
+      </application>
+   </appInfo>
+</encodingDesc>
+</teiHeader>
+<!-- termes-cles -->
+<ns:listAnnotation>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw1">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">abts2</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw2">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">abts</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw3">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">résolution structurale</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw4">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">nouveau sel</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw5">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">synthèse</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw6">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">sel</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw7">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">anion organique abts2</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw8">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">transfert</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw9">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">charge</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw10">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">cation inorganique la3+</term>
+      </tig>
+   </langSet>
+</termEntry>
+</ns:listAnnotation>
+<ns:standOff type="p3mi4-eval">
+<!--standOff subordonné au standOff principal-->
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Évaluation indexation</title>
+         <author role="IndexingEvaluator">INIST-CNRS</author>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>INIST-CNRS</distributor>
+         <distributor>LINA</distributor>
+         <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+         <availability>
+            <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+         </availability>
+      </publicationStmt>
+      <sourceDesc>
+         <p>Evaluation de l'indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+            générée automatiquement dans le cadre du projet TermITH</p>
+      </sourceDesc>
+   </fileDesc>
+   <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+      <appInfo>
+      <!--nom de l'outil d'évaluation-->
+         <application ident="idefix" version="7.9.1">
+            <label>idefix</label>
+         </application>
+      </appInfo>
+   </encodingDesc>
+</teiHeader>
+<ns:listAnnotation type="pertinence">
+   <span from="#p3mi4kw1">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : ABTS2-</note>
+   </span>
+   <span from="#p3mi4kw2">
+      <ptr type="INISTForm" target="#ikwfr3"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : 2-2 azinobis-3 éthyl benzothiazoline sulfonate</note>
+   </span>
+   <span from="#p3mi4kw3">
+      <ptr type="INISTForm" target="#ikwfr15"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi4kw4">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : sel à transfert de charge</note>
+   </span>
+   <span from="#p3mi4kw5">
+      <ptr type="INISTForm" target="#ikwfr18"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi4kw6">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : sel à transfert de charge</note>
+   </span>
+   <span from="#p3mi4kw7">
+      <ptr type="INISTForm" target="#ikwfr10"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : anion organique ABTS2-</note>
+   </span>
+   <span from="#p3mi4kw8">
+      <ptr type="INISTForm" target="#ikwfr13"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : transfert de charge</note>
+   </span>
+   <span from="#p3mi4kw9">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : transfert de charge</note>
+   </span>
+   <span from="#p3mi4kw10">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+</ns:listAnnotation>
+<ns:listAnnotation type="silence">
+   <span from="#ikwfr1">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr2">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr3">
+      <ptr type="TermithForm" target="#p3mi4kw2"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr4">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr5">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr6">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr7">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte :  complexe à valence mixte</note>
+   </span>
+   <span from="#ikwfr8">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr9">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte :  radical anion </note>
+   </span>
+   <span from="#ikwfr10">
+      <ptr type="TermithForm" target="#p3mi4kw7"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr11">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Générique.</note>
+   </span>
+   <span from="#ikwfr12">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : lanthane</note>
+   </span>
+   <span from="#ikwfr13">
+      <ptr type="TermithForm" target="#p3mi4kw8"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr14">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr15">
+      <ptr type="TermithForm" target="#p3mi4kw3"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr16">
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+      <note>(S) Notion absente du résumé.</note>
+   </span>
+   <span from="#ikwfr17">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr18">
+      <ptr type="TermithForm" target="#p3mi4kw5"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr19">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+</ns:listAnnotation>
+</ns:standOff>
+</ns:standOff>
+</ns:standOff>
+</TEI>

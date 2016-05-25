@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:ns="http://standoff.proposal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="fr">Etude cinétique et thermodynamique de l'intéraction d'un complexe de Pd(II) avec l'inosine et l'acide polyinosinique</title>
+            <respStmt>
+               <resp>Extraction de la base Inist Exodic</resp>
+               <persName>
+                  <forename>Flora</forename>
+                  <surname>Badin</surname>
+               </persName>
+               <persName>
+                  <forename>Nicolas</forename>
+                  <surname>Thouvenin</surname>
+               </persName>
+               <persName>
+                  <forename>Nourdine</forename>
+                  <surname>Combo</surname>
+               </persName>
+               <persName>
+                  <forename>Sabine</forename>
+                  <surname>Barreaux</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <orgName>Inist-CNRS</orgName>
+               <orgName>Lina</orgName>
+               <orgName>Inria</orgName>
+            </authority>
+            <availability n="licenceCC">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">
+                  <p>The Creative Commons Attribution 4.0 International License applies to this document.</p>
+                  <p>Any re-use of this resource should attribute its content to 
+                     <q>Corpus Termith-Eval created in the framework of the TermITH-project 
+                        (ANR-12-CORD-0029) under the responsibility of INIST-CNRS, LINA, INRIA</q>
+                  </p>
+               </licence>
+            </availability>
+            <idno type="inistIdentifier">88-0197962</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title type="main" xml:lang="fr">Etude cinétique et thermodynamique de l'intéraction d'un complexe de Pd(II) avec l'inosine et l'acide polyinosinique</title>
+                  <author>
+                     <persName>
+                        <forename>R.</forename>
+                        <surname>MENARD</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Univ. Montréal, dép. chimie</orgName>
+                        <address>
+                           <settlement>Montréal PQ H3C 3J7</settlement>
+                           <country>CA</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>M.</forename>
+                        <surname>ZADOR</surname>
+                     </persName>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Canadian journal of chemistry (Print)</title>
+                  <idno type="issn">0008-4042</idno>
+                  <idno type="url">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=7590599</idno>
+                  <meeting/>
+                  <imprint>
+                     <pubPlace>
+                        <settlement>Plattsburgh, NY</settlement>
+                        <country>US</country>
+                     </pubPlace>
+                     <biblScope unit="volume">66</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <biblScope unit="pp" from="178" to="183">178-183</biblScope>
+                     <date type="published" when="1988">1988</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>TermITH (ANR-12-CORD-0029 - Contint) est un projet ANR se déroulant sur 3 ans et demi
+               (2012 - 2016) avec pour objectif de faciliter l'indexation automatique de textes en
+               sciences humaines et sociales en français en s'appuyant sur les termes qu'ils
+               contiennent.</p>
+            <p>Le présent document fait partie du corpus TermITH-Eval sur lequel différentes
+               méthodes d'indexation développées dans TermITH sont testées.</p>
+         </projectDesc>
+         <editorialDecl>
+            <normalization>
+               <p>L'élément teiHeader contient la notice bibliographique de l'Inist-CNRS</p>
+               <p>Les éléments ns:standOff contiennent les résultats d'indexation produits par
+                  différentes méthodes testées par le Lina</p>
+               <p>Les éléments ns:standOff/ns:standOff contiennent les évaluations réalisées par
+                  l'Inist-CNRS sur ces indexations</p>
+            </normalization>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="cc">
+               <term key="001C02A">Cinétique et mécanisme des réactions.</term>
+            </keywords>
+            <keywords scheme="inist-pascal" xml:lang="fr">
+               <term xml:id="ikwfr1" type="controlled" corresp="#Kinetics">Cinétique</term>
+               <term xml:id="ikwfr2" type="controlled" corresp="#Thermodynamicproperties">Propriété thermodynamique</term>
+               <term xml:id="ikwfr3" type="controlled" corresp="#Reactionmechanism">Mécanisme réaction</term>
+               <term xml:id="ikwfr4" type="uncontrolled" corresp="#DivalentmetalComplexes">Métal divalent Complexe</term>
+               <term xml:id="ikwfr5" type="controlled" corresp="#Transitionelementcomplexes">Complexe de métal de transition</term>
+               <term xml:id="ikwfr6" type="uncontrolled" corresp="#PlatinoidComplexes">Platinoïde Complexe</term>
+               <term xml:id="ikwfr7" type="controlled" corresp="#Purinenucleoside">Purine nucléoside</term>
+               <term xml:id="ikwfr8" type="controlled" corresp="#Organicligand">Coordinat organique</term>
+               <term xml:id="ikwfr9" type="controlled" corresp="#Chemicalreaction">Réaction chimique</term>
+               <term xml:id="ikwfr10" type="controlled" corresp="#Bindingmode">Mode liaison</term>
+               <term xml:id="ikwfr11" type="controlled" corresp="#Aquacomplex">Complexe aqua</term>
+               <term xml:id="ikwfr12" type="uncontrolled" corresp="#ComplexesMixed">Complexe Mixte</term>
+               <term xml:id="ikwfr13" type="controlled" corresp="#Circulardichroism">Dichroïsme circulaire</term>
+               <term xml:id="ikwfr14" type="controlled" corresp="#Polysaccharide">Polyoside</term>
+               <term xml:id="ikwfr15" type="uncontrolled" corresp="#PalladiumIIComplexes">Palladium II Complexe</term>
+               <term xml:id="ikwfr16" type="uncontrolled">Inosine</term>
+               <term xml:id="ikwfr17" type="uncontrolled">Diéthylènetriamine</term>
+               <term xml:id="ikwfr18" type="uncontrolled">Polyinosinique acide</term>
+            </keywords>
+            <keywords scheme="inist-pascal" xml:lang="en">
+               <term type="controlled" xml:id="Kinetics">Kinetics</term>
+               <term type="controlled" xml:id="Thermodynamicproperties">Thermodynamic properties</term>
+               <term type="controlled" xml:id="Reactionmechanism">Reaction mechanism</term>
+               <term type="uncontrolled" xml:id="DivalentmetalComplexes">Divalent metal Complexes</term>
+               <term type="controlled" xml:id="Transitionelementcomplexes">Transition element complexes</term>
+               <term type="uncontrolled" xml:id="PlatinoidComplexes">Platinoid Complexes</term>
+               <term type="controlled" xml:id="Purinenucleoside">Purine nucleoside</term>
+               <term type="controlled" xml:id="Organicligand">Organic ligand</term>
+               <term type="controlled" xml:id="Chemicalreaction">Chemical reaction</term>
+               <term type="controlled" xml:id="Bindingmode">Binding mode</term>
+               <term type="controlled" xml:id="Aquacomplex">Aqua complex</term>
+               <term type="uncontrolled" xml:id="ComplexesMixed">Complexes Mixed</term>
+               <term type="controlled" xml:id="Circulardichroism">Circular dichroism</term>
+               <term type="controlled" xml:id="Polysaccharide">Polysaccharide</term>
+               <term type="uncontrolled" xml:id="PalladiumIIComplexes">Palladium II Complexes</term>
+            </keywords>
+         </textClass>
+         <abstract xml:lang="fr">
+            <p>Dans les 2 cas, le métal se lie d'abord au site N7 de la base hypoxanthine. Il y aurait 2 voies réactionnelles. La réaction initiale au site N7 est suivie d'une redistribution lente du métal vers N1 thermodynamiquement plus stable</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <ns:standOff type="indexation-phase3">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>Evaluation de l'indexation TermITH - phase 3</title>
+               <author role="IndexingEditor">LINA</author>
+               <author role="IndexingEvaluator">INIST-CNRS</author>
+            </titleStmt>
+            <publicationStmt>
+               <distributor>INIST-CNRS</distributor>
+               <distributor>LINA</distributor>
+               <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+               <availability>
+                  <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <p>Indexation (phase 3) du document <ref target="#inistIdentifier"/> 
+                  générée automatiquement dans le cadre du projet TermITH</p>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <textDesc>
+               <channel mode="w"/>
+               <constitution type="composite"/>
+               <derivation type="original"/>
+               <domain>linguistique, archéologie, sciences de l'information, chimie</domain>
+               <factuality type="inapplicable"/>
+               <interaction type="inapplicable"/>
+               <preparedness type="formulaic"/>
+               <purpose>La phase 3 porte sur l'évaluation de l'indexation proposée par différentes 
+                  méthodes exploitant la notice bibliographique (partie "teiHeader")</purpose>
+            </textDesc>
+         </profileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>L'organisation des résultats d'indexation et de leur évaluation passe par plusieurs ns:standOff imbriqués.</p>
+               <p>Au deuxième niveau, on trouve un standOff par méthode appliquée.</p>
+               <p>Pour chaque standOff d'une méthode, typé par un xml:id dont la valeur indique la phase 
+                  et la méthode, on trouve les termes-clés produits par la méthode dans un élément ns:listAnnotation 
+                  et leur évaluation dans un standOff de troisième niveau.</p>
+               <p>Le standOff d'évaluation dispose de deux éléments ns:listAnnotation, l'un pour l'évaluation en 
+                  pertinence, l'autre pour l'évaluation en silence.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <ns:standOff type="p3mi2">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:topicrank:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:topicrank:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">métal</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">voies réactionnelles</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">réaction initiale</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">redistribution lente</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">thermodynamique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">base hypoxanthine</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">intéraction</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">abord</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">cinétique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">complexe</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi2-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi2kw1">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw2">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw3">
+                  <ptr type="INISTForm" target="#ikwfr9"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw4">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : redistribution</note>
+               </span>
+               <span from="#p3mi2kw5">
+                  <ptr type="INISTForm" target="#ikwfr2"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw6">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : hypoxanthine</note>
+               </span>
+               <span from="#p3mi2kw7">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw8">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw9">
+                  <ptr type="INISTForm" target="#ikwfr1"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw10">
+                  <ptr type="INISTForm" target="#ikwfr15"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : complexe de Pd(II)</note>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <ptr type="TermithForm" target="#p3mi2kw9"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr2">
+                  <ptr type="TermithForm" target="#p3mi2kw5"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi2kw2"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr5">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr6">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr8">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr9">
+                  <ptr type="TermithForm" target="#p3mi2kw3"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr10">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr11">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+               <span from="#ikwfr12">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr13">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+               <span from="#ikwfr14">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr15">
+                  <ptr type="TermithForm" target="#p3mi2kw10"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr16">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr17">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+               <span from="#ikwfr18">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+                  <note>(S) Forme variante dans le texte : acide polyinosinique</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+      <ns:standOff type="p3mi1">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:tfidf:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:tfidf:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">métal</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">inosine</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">abord</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">intéraction</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">acide polyinosinique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">stable</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">thermodynamique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">redistribution lente</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">base hypoxanthine</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">voies réactionnelles</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi1-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi1kw1">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw2">
+                  <ptr type="INISTForm" target="#ikwfr16"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw3">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw4">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw5">
+                  <ptr type="INISTForm" target="#ikwfr18"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw6">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw7">
+                  <ptr type="INISTForm" target="#ikwfr2"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw8">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : redistribution</note>
+               </span>
+               <span from="#p3mi1kw9">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : hypoxanthine</note>
+               </span>
+               <span from="#p3mi1kw10">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr2">
+                  <ptr type="TermithForm" target="#p3mi1kw7"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi1kw10"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr5">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr6">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr8">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr9">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+                  <note>(S) Forme variante dans le texte : réaction</note>
+               </span>
+               <span from="#ikwfr10">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr11">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+               <span from="#ikwfr12">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr13">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+               <span from="#ikwfr14">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr15">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+                  <note>(S) Forme variante dans le texte : complexe de Pd(II)</note>
+               </span>
+               <span from="#ikwfr16">
+                  <ptr type="TermithForm" target="#p3mi1kw2"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr17">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+               <span from="#ikwfr18">
+                  <ptr type="TermithForm" target="#p3mi1kw5"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+      <ns:standOff type="p3mi4">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:kea:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:kea:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">métal</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">intéraction</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">thermodynamique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">inosine</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">acide polyinosinique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">cinétique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">complexe</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">abord</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">base hypoxanthine</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">réaction initiale</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi4-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi4kw1">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw2">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw3">
+                  <ptr type="INISTForm" target="#ikwfr2"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw4">
+                  <ptr type="INISTForm" target="#ikwfr16"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw5">
+                  <ptr type="INISTForm" target="#ikwfr18"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw6">
+                  <ptr type="INISTForm" target="#ikwfr1"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw7">
+                  <ptr type="INISTForm" target="#ikwfr15"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : complexe de Pd(II)</note>
+               </span>
+               <span from="#p3mi4kw8">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw9">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : hypoxanthine</note>
+               </span>
+               <span from="#p3mi4kw10">
+                  <ptr type="INISTForm" target="#ikwfr9"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <ptr type="TermithForm" target="#p3mi4kw6"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr2">
+                  <ptr type="TermithForm" target="#p3mi4kw3"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr3">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+                  <note>(S) Forme variante dans le texte : voies réactionnelles</note>
+               </span>
+               <span from="#ikwfr4">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr5">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr6">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr8">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr9">
+                  <ptr type="TermithForm" target="#p3mi4kw10"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr10">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr11">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+               <span from="#ikwfr12">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr13">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+               <span from="#ikwfr14">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr15">
+                  <ptr type="TermithForm" target="#p3mi4kw7"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr16">
+                  <ptr type="TermithForm" target="#p3mi4kw4"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr17">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+               <span from="#ikwfr18">
+                  <ptr type="TermithForm" target="#p3mi4kw5"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+   </ns:standOff>
+</TEI>

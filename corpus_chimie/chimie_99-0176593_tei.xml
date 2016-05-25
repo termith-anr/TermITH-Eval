@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:ns="http://standoff.proposal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="fr">Caractérisation structurale d'asphaltènes pétroliers par spectroscopie infrarouge (IRTF). Application à la photo-oxydation</title>
+            <title type="alt" xml:lang="en">Structural characterization of crude oil asphaltenes by infrared spectroscopy (FTIR)</title>
+            <respStmt>
+               <resp>Extraction de la base Inist Exodic</resp>
+               <persName>
+                  <forename>Flora</forename>
+                  <surname>Badin</surname>
+               </persName>
+               <persName>
+                  <forename>Nicolas</forename>
+                  <surname>Thouvenin</surname>
+               </persName>
+               <persName>
+                  <forename>Nourdine</forename>
+                  <surname>Combo</surname>
+               </persName>
+               <persName>
+                  <forename>Sabine</forename>
+                  <surname>Barreaux</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <orgName>Inist-CNRS</orgName>
+               <orgName>Lina</orgName>
+               <orgName>Inria</orgName>
+            </authority>
+            <availability n="licenceCC">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">
+                  <p>The Creative Commons Attribution 4.0 International License applies to this document.</p>
+                  <p>Any re-use of this resource should attribute its content to 
+                     <q>Corpus Termith-Eval created in the framework of the TermITH-project 
+                        (ANR-12-CORD-0029) under the responsibility of INIST-CNRS, LINA, INRIA</q>
+                  </p>
+               </licence>
+            </availability>
+            <idno type="inistIdentifier">99-0176593</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title type="main" xml:lang="fr">Caractérisation structurale d'asphaltènes pétroliers par spectroscopie infrarouge (IRTF). Application à la photo-oxydation</title>
+                  <title type="alt" xml:lang="en">Structural characterization of crude oil asphaltenes by infrared spectroscopy (FTIR)</title>
+                  <author>
+                     <persName>
+                        <forename>A.</forename>
+                        <surname>BOUKIR</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Laboratoire de chimie analytique de l'environnement, faculté des sciences et techniques de Saint-Jérôme, case 312</orgName>
+                        <address>
+                           <settlement>13397 Marseille</settlement>
+                           <country>FR</country>
+                        </address>
+                     </affiliation>
+                     <affiliation>
+                        <orgName>Laboratoire de chimie organique, faculté des sciences Dhar-Mehraz, BP 1796 Atlas</orgName>
+                        <address>
+                           <settlement>Fes</settlement>
+                           <country>MA</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>M.</forename>
+                        <surname>GUILIANO</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Laboratoire de chimie analytique de l'environnement, faculté des sciences et techniques de Saint-Jérôme, case 312</orgName>
+                        <address>
+                           <settlement>13397 Marseille</settlement>
+                           <country>FR</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>P.</forename>
+                        <surname>DOUMENQ</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Laboratoire de chimie analytique de l'environnement, faculté des sciences et techniques de Saint-Jérôme, case 312</orgName>
+                        <address>
+                           <settlement>13397 Marseille</settlement>
+                           <country>FR</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>A.</forename>
+                        <surname>EL HALLAOUI</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Laboratoire de chimie organique, faculté des sciences Dhar-Mehraz, BP 1796 Atlas</orgName>
+                        <address>
+                           <settlement>Fes</settlement>
+                           <country>MA</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>G.</forename>
+                        <surname>MILLE</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Laboratoire de chimie analytique de l'environnement, faculté des sciences et techniques de Saint-Jérôme, case 312</orgName>
+                        <address>
+                           <settlement>13397 Marseille</settlement>
+                           <country>FR</country>
+                        </address>
+                     </affiliation>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Comptes rendus de l'académie des sciences. Serie IIc, chimie</title>
+                  <idno type="issn">1387-1609</idno>
+                  <idno type="url">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=1816216</idno>
+                  <meeting/>
+                  <imprint>
+                     <pubPlace>
+                        <settlement>Paris</settlement>
+                        <country>FR</country>
+                     </pubPlace>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="issue">10</biblScope>
+                     <biblScope unit="pp" from="597" to="602">597-602</biblScope>
+                     <date type="published" when="1998">1998</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>TermITH (ANR-12-CORD-0029 - Contint) est un projet ANR se déroulant sur 3 ans et demi
+               (2012 - 2016) avec pour objectif de faciliter l'indexation automatique de textes en
+               sciences humaines et sociales en français en s'appuyant sur les termes qu'ils
+               contiennent.</p>
+            <p>Le présent document fait partie du corpus TermITH-Eval sur lequel différentes
+               méthodes d'indexation développées dans TermITH sont testées.</p>
+         </projectDesc>
+         <editorialDecl>
+            <normalization>
+               <p>L'élément teiHeader contient la notice bibliographique de l'Inist-CNRS</p>
+               <p>Les éléments ns:standOff contiennent les résultats d'indexation produits par
+                  différentes méthodes testées par le Lina</p>
+               <p>Les éléments ns:standOff/ns:standOff contiennent les évaluations réalisées par
+                  l'Inist-CNRS sur ces indexations</p>
+            </normalization>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="cc">
+               <term key="001D06B02C">Constitution et propriétés des pétroles bruts, huiles de schistes, gaz et bitumes naturels. Analyses. Caractéristiques.</term>
+               <term key="230">ENERGIE.</term>
+            </keywords>
+            <keywords scheme="inist-pascal" xml:lang="fr">
+               <term xml:id="ikwfr1" type="controlled" corresp="#Oilindustry">Industrie pétrolière</term>
+               <term xml:id="ikwfr2" type="controlled" corresp="#Petroleum">Pétrole</term>
+               <term xml:id="ikwfr3" type="controlled" corresp="#Asphaltene">Asphaltène</term>
+               <term xml:id="ikwfr4" type="controlled" corresp="#Infraredspectrometry">Spectrométrie IR</term>
+               <term xml:id="ikwfr5" type="controlled" corresp="#Fouriertransformation">Transformation Fourier</term>
+               <term xml:id="ikwfr6" type="controlled" corresp="#Photooxidation">Photooxydation</term>
+               <term xml:id="ikwfr7" type="controlled" corresp="#Experimentalstudy">Etude expérimentale</term>
+            </keywords>
+            <keywords scheme="inist-pascal" xml:lang="en">
+               <term type="controlled" xml:id="Oilindustry">Oil industry</term>
+               <term type="controlled" xml:id="Petroleum">Petroleum</term>
+               <term type="controlled" xml:id="Asphaltene">Asphaltene</term>
+               <term type="controlled" xml:id="Infraredspectrometry">Infrared spectrometry</term>
+               <term type="controlled" xml:id="Fouriertransformation">Fourier transformation</term>
+               <term type="controlled" xml:id="Photooxidation">Photooxidation</term>
+               <term type="controlled" xml:id="Experimentalstudy">Experimental study</term>
+            </keywords>
+         </textClass>
+         <abstract xml:lang="fr">
+            <p>Les asphaltènes sont les fractions pétrolières les plus récalcitrantes aux agents naturels de dégradation et le rôle de la photo-oxydation (qui est l'un de ces agents) sur leur devenir est extrêmement mal connu. Nous avons étudié, dans ce travail, les effets de la photo-oxydation (5 et 11 mois) sur l'évolution d'asphaltènes de dix bruts pétroliers, d'origines géographiques et géochimiques différentes. Les spectres IRTF des différents asphaltènes pétroliers présentent les mêmes caractéristiques, sauf dans la région 1800-1600 cm<hi rend="superscript">-1</hi>, qui dépend de l'état d'oxydation de chaque asphaltène. Pour mieux différencier et caractériser ces asphaltènes, nous avons déterminé différents indices structuraux obtenus par intégration d'aires de bandes IRTF caractéristiques (indices caractéristiques de l'oxydation, de l'aromaticité, de l'aliphaticité, de la ramification, du taux en groupement sulfoxyde, de la longueur de chaînes, de la teneur en CH aromatique et de la condensation). Après photo-oxydation des asphaltènes, seuls les indices d'oxydation et d'aliphaticité montrent des variations significatives.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <ns:standOff type="indexation-phase3">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>Evaluation de l'indexation TermITH - phase 3</title>
+               <author role="IndexingEditor">LINA</author>
+               <author role="IndexingEvaluator">INIST-CNRS</author>
+            </titleStmt>
+            <publicationStmt>
+               <distributor>INIST-CNRS</distributor>
+               <distributor>LINA</distributor>
+               <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+               <availability>
+                  <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <p>Indexation (phase 3) du document <ref target="#inistIdentifier"/> 
+                  générée automatiquement dans le cadre du projet TermITH</p>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <textDesc>
+               <channel mode="w"/>
+               <constitution type="composite"/>
+               <derivation type="original"/>
+               <domain>linguistique, archéologie, sciences de l'information, chimie</domain>
+               <factuality type="inapplicable"/>
+               <interaction type="inapplicable"/>
+               <preparedness type="formulaic"/>
+               <purpose>La phase 3 porte sur l'évaluation de l'indexation proposée par différentes 
+                  méthodes exploitant la notice bibliographique (partie "teiHeader")</purpose>
+            </textDesc>
+         </profileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>L'organisation des résultats d'indexation et de leur évaluation passe par plusieurs ns:standOff imbriqués.</p>
+               <p>Au deuxième niveau, on trouve un standOff par méthode appliquée.</p>
+               <p>Pour chaque standOff d'une méthode, typé par un xml:id dont la valeur indique la phase 
+                  et la méthode, on trouve les termes-clés produits par la méthode dans un élément ns:listAnnotation 
+                  et leur évaluation dans un standOff de troisième niveau.</p>
+               <p>Le standOff d'évaluation dispose de deux éléments ns:listAnnotation, l'un pour l'évaluation en 
+                  pertinence, l'autre pour l'évaluation en silence.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <ns:standOff type="p3mi2">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:topicrank:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:topicrank:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">asphaltènes pétroliers</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">photo- oxydation</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">irtf</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">différents indices structuraux</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">spectroscopie infrarouge</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">application</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">fractions pétrolières</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">caractérisation structurale</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">aliphaticité</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">agents naturels</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi2-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi2kw1">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw2">
+                  <ptr type="INISTForm" target="#ikwfr6"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw3">
+                  <ptr type="INISTForm" target="#ikwfr5"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : spectres IRTF</note>
+               </span>
+               <span from="#p3mi2kw4">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : indices structuraux </note>
+               </span>
+               <span from="#p3mi2kw5">
+                  <ptr type="INISTForm" target="#ikwfr4"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw6">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw7">
+                  <ptr type="INISTForm" target="#ikwfr2"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw8">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw9">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw10">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte :  agents naturels de dégradation</note>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr2">
+                  <ptr type="TermithForm" target="#p3mi2kw7"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi2kw1"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <ptr type="TermithForm" target="#p3mi2kw5"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <ptr type="TermithForm" target="#p3mi2kw3"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <ptr type="TermithForm" target="#p3mi2kw2"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+      <ns:standOff type="p3mi1">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:tfidf:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:tfidf:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">asphaltènes</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">oxydation</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">irtf</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">indices</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">photo- oxydation</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">aliphaticité</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">bruts pétroliers</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">asphaltènes pétroliers</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">spectres irtf</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">différents asphaltènes pétroliers</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi1-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi1kw1">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw2">
+                  <ptr type="preferredForm" target="#p3mi1kw5"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw3">
+                  <ptr type="preferredForm" target="#p3mi1kw9"/>
+                  <ptr type="INISTForm" target="#ikwfr5"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw4">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw5">
+                  <ptr type="INISTForm" target="#ikwfr6"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw6">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw7">
+                  <ptr type="INISTForm" target="#ikwfr2"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw8">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw9">
+                  <ptr type="INISTForm" target="#ikwfr4"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw10">
+                  <ptr type="preferredForm" target="#p3mi1kw8"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr2">
+                  <ptr type="TermithForm" target="#p3mi1kw7"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi1kw1"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <ptr type="TermithForm" target="#p3mi1kw9"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <ptr type="TermithForm" target="#p3mi1kw3"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <ptr type="TermithForm" target="#p3mi1kw5"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+      <ns:standOff type="p3mi4">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:kea:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:kea:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">asphaltènes</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">photo- oxydation</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">oxydation</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">irtf</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">asphaltènes pétroliers</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">caractérisation structurale</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">spectroscopie infrarouge</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">application</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">fractions pétrolières</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">récalcitrantes</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi4-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi4kw1">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw2">
+                  <ptr type="INISTForm" target="#ikwfr6"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw3">
+                  <ptr type="preferredForm" target="#p3mi4kw2"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw4">
+                  <ptr type="INISTForm" target="#ikwfr5"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : spectres IRTF</note>
+               </span>
+               <span from="#p3mi4kw5">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw6">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw7">
+                  <ptr type="INISTForm" target="#ikwfr4"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw8">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw9">
+                  <ptr type="INISTForm" target="#ikwfr2"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw10">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr2">
+                  <ptr type="TermithForm" target="#p3mi4kw9"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi4kw1"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <ptr type="TermithForm" target="#p3mi4kw7"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <ptr type="TermithForm" target="#p3mi4kw4"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <ptr type="TermithForm" target="#p3mi4kw2"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+   </ns:standOff>
+</TEI>

@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI 
+   xmlns="http://www.tei-c.org/ns/1.0" 
+   xmlns:tei="http://www.tei-c.org/ns/1.0" 
+   xmlns:ns="http://standoff.proposal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="fr">La politique de la fiction d'actualité. L'argumentation par émersion dans le faux journal télévisé de la RTBF : Fictions politiques</title>
+            <title type="alt" xml:lang="en">Bogus television new. Argumentation through emersion in RTBF'sfake newscast</title>
+            <respStmt>
+               <resp>Extraction de la base Inist Exodic</resp>
+               <persName>
+                  <forename>Flora</forename>
+                  <surname>Badin</surname>
+               </persName>
+               <persName>
+                  <forename>Nicolas</forename>
+                  <surname>Thouvenin</surname>
+               </persName>
+               <persName>
+                  <forename>Nourdine</forename>
+                  <surname>Combo</surname>
+               </persName>
+               <persName>
+                  <forename>Sabine</forename>
+                  <surname>Barreaux</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <orgName>Inist-CNRS</orgName>
+               <orgName>Lina</orgName>
+               <orgName>Inria</orgName>
+            </authority>
+            <availability n="licenceCC">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">
+                  <p>The Creative Commons Attribution 4.0 International License applies to this document.</p>
+                  <p>Any re-use of this resource should attribute its content to 
+                     <q>Corpus Termith-Eval created in the framework of the TermITH-project 
+                        (ANR-12-CORD-0029) under the responsibility of INIST-CNRS, LINA, INRIA</q>
+                  </p>
+               </licence>
+            </availability>
+            <idno type="inistIdentifier">13-0078102</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title type="main" xml:lang="fr">La politique de la fiction d'actualité. L'argumentation par émersion dans le faux journal télévisé de la RTBF : Fictions politiques</title>
+                  <title type="alt" xml:lang="en">Bogus television new. Argumentation through emersion in RTBF'sfake newscast</title>
+                  <author>
+                     <persName>
+                        <forename>François</forename>
+                        <surname>PROVENZANO</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Université de Liège</orgName>
+                        <address>
+                           <country>BE</country>
+                        </address>
+                     </affiliation>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Mots (Paris. 1980)</title>
+                  <idno type="issn">0243-6450</idno>
+                  <idno type="url">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=26281080</idno>
+                  <meeting/>
+                  <imprint>
+                     <pubPlace>
+                        <settlement>Fontenay-aux-Roses</settlement>
+                        <country>FR</country>
+                     </pubPlace>
+                     <biblScope unit="issue">99</biblScope>
+                     <biblScope unit="pp">13-27, 159-160 [17 p.]</biblScope>
+                     <date type="published" when="2012">2012</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>TermITH (ANR-12-CORD-0029 - Contint) est un projet ANR se déroulant sur 3 ans et demi
+               (2012 - 2016) avec pour objectif de faciliter l'indexation automatique de textes en
+               sciences humaines et sociales en français en s'appuyant sur les termes qu'ils
+               contiennent.</p>
+            <p>Le présent document fait partie du corpus TermITH-Eval sur lequel différentes
+               méthodes d'indexation développées dans TermITH sont testées.</p>
+         </projectDesc>
+         <editorialDecl>
+            <normalization>
+               <p>L'élément teiHeader contient la notice bibliographique de l'Inist-CNRS</p>
+               <p>Les éléments ns:standOff contiennent les résultats d'indexation produits par
+                  différentes méthodes testées par le Lina</p>
+               <p>Les éléments ns:standOff/ns:standOff contiennent les évaluations réalisées par
+                  l'Inist-CNRS sur ces indexations</p>
+            </normalization>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="cc">
+               <term key="52465">Rhétorique et argumentation.</term>
+               <term key="524XIV">SEMIOTIQUE DISCURSIVE</term>
+               <term key="524">LINGUISTIQUE</term>
+            </keywords>
+            <keywords scheme="inist-francis" xml:lang="fr">
+               <term xml:id="ikwfr1" type="controlled" corresp="#Fiction">Fiction</term>
+               <term xml:id="ikwfr2" type="controlled" corresp="#Information">Information</term>
+               <term xml:id="ikwfr3" type="controlled" corresp="#Belgium">Belgique</term>
+               <term xml:id="ikwfr4" type="controlled" corresp="#TVNews">Journal télévisé</term>
+               <term xml:id="ikwfr5" type="controlled" corresp="#Policy">Politique</term>
+               <term xml:id="ikwfr6" type="controlled" corresp="#Enunciation">Enonciation</term>
+               <term xml:id="ikwfr7" type="controlled" corresp="#Narration">Narration</term>
+               <term xml:id="ikwfr8" type="controlled" corresp="#Discoursesemiotics">Sémiotique discursive</term>
+               <term xml:id="ikwfr9" type="controlled" corresp="#Discourseanalysis">Analyse du discours</term>
+            </keywords>
+            <keywords scheme="inist-francis" xml:lang="en">
+               <term type="controlled" xml:id="Fiction">Fiction</term>
+               <term type="controlled" xml:id="Information">Information</term>
+               <term type="controlled" xml:id="Belgium">Belgium</term>
+               <term type="controlled" xml:id="TVNews">TV News</term>
+               <term type="controlled" xml:id="Policy">Policy</term>
+               <term type="controlled" xml:id="Enunciation">Enunciation</term>
+               <term type="controlled" xml:id="Narration">Narration</term>
+               <term type="controlled" xml:id="Discoursesemiotics">Discourse semiotics</term>
+               <term type="controlled" xml:id="Discourseanalysis">Discourse analysis</term>
+            </keywords>
+         </textClass>
+         <abstract xml:lang="fr">
+            <p>L'article prend pour objet d'analyse et de réflexion le faux journal télévisé diffusé par la RTBF en décembre 2006, annonçant fictivement la fin de la Belgique. L'émission est brièvement contextualisée et décrite, pour être ensuite analysée en tant que dispositif argumentatif: emboîtement énonciatif, procédés fictionnels et dédoublement communicationnel constituent les trois instruments majeurs d'un mouvement d'émersion fictionnelle qui affecte le téléspectateur. Cette analyse s'ouvre ensuite sur une discussion théorique des oppositions entre information et fiction, argumentation et narration, qui vise à revoir la qualification réflexive et politique des objets médiatiques.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <ns:standOff type="indexation-phase3">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>Evaluation de l'indexation TermITH - phase 3</title>
+               <author role="IndexingEditor">LINA</author>
+               <author role="IndexingEvaluator">INIST-CNRS</author>
+            </titleStmt>
+            <publicationStmt>
+               <distributor>INIST-CNRS</distributor>
+               <distributor>LINA</distributor>
+               <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+               <availability>
+                  <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <p>Indexation (phase 3) du document <ref target="#inistIdentifier"/> 
+                  générée automatiquement dans le cadre du projet TermITH</p>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <textDesc>
+               <channel mode="w"/>
+               <constitution type="composite"/>
+               <derivation type="original"/>
+               <domain>linguistique, archéologie, sciences de l'information, chimie</domain>
+               <factuality type="inapplicable"/>
+               <interaction type="inapplicable"/>
+               <preparedness type="formulaic"/>
+               <purpose>La phase 3 porte sur l'évaluation de l'indexation proposée par différentes 
+                  méthodes exploitant la notice bibliographique (partie "teiHeader")</purpose>
+            </textDesc>
+         </profileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>L'organisation des résultats d'indexation et de leur évaluation passe par plusieurs ns:standOff imbriqués.</p>
+               <p>Au deuxième niveau, on trouve un standOff par méthode appliquée.</p>
+               <p>Pour chaque standOff d'une méthode, typé par un xml:id dont la valeur indique la phase 
+                  et la méthode, on trouve les termes-clés produits par la méthode dans un élément ns:listAnnotation 
+                  et leur évaluation dans un standOff de troisième niveau.</p>
+               <p>Le standOff d'évaluation dispose de deux éléments ns:listAnnotation, l'un pour l'évaluation en 
+                  pertinence, l'autre pour l'évaluation en silence.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <ns:standOff type="p3mi4">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:kea:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:kea:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry 
+               xmlns="http://www.tbx.org" xml:id="p3mi4kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term 
+                        xmlns="http://www.tei-c.org/ns/1.0">émersion
+                     </term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry 
+               xmlns="http://www.tbx.org" xml:id="p3mi4kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term 
+                        xmlns="http://www.tei-c.org/ns/1.0">faux journal télévisé
+                     </term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry 
+               xmlns="http://www.tbx.org" xml:id="p3mi4kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term 
+                        xmlns="http://www.tei-c.org/ns/1.0">faux journal
+                     </term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry 
+               xmlns="http://www.tbx.org" xml:id="p3mi4kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term 
+                        xmlns="http://www.tei-c.org/ns/1.0">rtbf
+                     </term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry 
+               xmlns="http://www.tbx.org" xml:id="p3mi4kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term 
+                        xmlns="http://www.tei-c.org/ns/1.0">argumentation
+                     </term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry 
+               xmlns="http://www.tbx.org" xml:id="p3mi4kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term 
+                        xmlns="http://www.tei-c.org/ns/1.0">fiction
+                     </term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry 
+               xmlns="http://www.tbx.org" xml:id="p3mi4kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term 
+                        xmlns="http://www.tei-c.org/ns/1.0">politique
+                     </term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry 
+               xmlns="http://www.tbx.org" xml:id="p3mi4kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term 
+                        xmlns="http://www.tei-c.org/ns/1.0">fictions politiques
+                     </term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry 
+               xmlns="http://www.tbx.org" xml:id="p3mi4kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term 
+                        xmlns="http://www.tei-c.org/ns/1.0">actualité
+                     </term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry 
+               xmlns="http://www.tbx.org" xml:id="p3mi4kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term 
+                        xmlns="http://www.tei-c.org/ns/1.0">article
+                     </term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi4-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc 
+                  xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi4kw1">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw2">
+                  <ptr type="INISTForm" target="#ikwfr4"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw3">
+                  <ptr type="preferredForm" target="#p3mi4kw2"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw4">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw5">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw6">
+                  <ptr type="INISTForm" target="#ikwfr1"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw7">
+                  <ptr type="INISTForm" target="#ikwfr5"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw8">
+                  <ptr type="preferredForm" target="#p3mi4kw6"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw9">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw10">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <ptr type="TermithForm" target="#p3mi4kw6"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr2">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr3">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <ptr type="TermithForm" target="#p3mi4kw2"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <ptr type="TermithForm" target="#p3mi4kw7"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr8">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr9">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+      <ns:standOff type="p3mi2">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-1:notice:topicrank:sequences_nom_adj" version="1.0">
+                     <label>lina-1:notice:topicrank:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">actualité</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">analyse</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">argumentation</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">article</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">émersion</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">faux journal télévisé</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">information</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">objet</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">politique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">rtbf</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi2-eval">
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc 
+                  xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi2kw1">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw2">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw3">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw4">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw5">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw6">
+                  <ptr type="INISTForm" target="#ikwfr4"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw7">
+                  <ptr type="INISTForm" target="#ikwfr2"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw8">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw9">
+                  <ptr type="INISTForm" target="#ikwfr5"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw10">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr9">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>implicite</note>
+               </span>
+               <span from="#ikwfr3">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>implicite</note>
+               </span>
+               <span from="#ikwfr1">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr2">
+                  <ptr type="TermithForm" target="#p3mi2kw7"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <ptr type="TermithForm" target="#p3mi2kw6"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <ptr type="TermithForm" target="#p3mi2kw9"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr8">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>générique</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+      <ns:standOff type="p3mi1">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-1:notice:tfidf:sequences_nom_adj" version="1.0">
+                     <label>lina-1:notice:tfidf:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">argumentation</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">belgique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">émersion</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">émission</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">faux journal</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">fiction</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">fictionnels</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">narration</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">rtbf</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">téléspectateur</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi1-eval">
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc 
+                  xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi1kw1">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw2">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw3">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw4">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw5">
+                  <ptr type="INISTForm" target="#ikwfr4"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw6">
+                  <ptr type="INISTForm" target="#ikwfr1"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw7">
+                  <ptr type="preferredForm" target="#p3mi1kw7"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw8">
+                  <ptr type="INISTForm" target="#ikwfr7"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw9">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw10">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr9">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>implicite</note>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi1kw2"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>implicite</note>
+               </span>
+               <span from="#ikwfr1">
+                  <ptr type="TermithForm" target="#p3mi1kw6"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr2">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <ptr type="TermithForm" target="#p3mi1kw5"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr7">
+                  <ptr type="TermithForm" target="#p3mi1kw8"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr8">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>générique</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+   </ns:standOff>
+</TEI>

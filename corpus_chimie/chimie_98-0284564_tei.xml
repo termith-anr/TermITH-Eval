@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:ns="http://standoff.proposal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="fr">Amorphisation sous haute pression de la variété quartz-α de l'oxynitrure de phosphore PON</title>
+            <title type="alt" xml:lang="en">High-pressure amorphization of the α-quartz phase of phosphorus oxynitride PON</title>
+            <respStmt>
+               <resp>Extraction de la base Inist Exodic</resp>
+               <persName>
+                  <forename>Flora</forename>
+                  <surname>Badin</surname>
+               </persName>
+               <persName>
+                  <forename>Nicolas</forename>
+                  <surname>Thouvenin</surname>
+               </persName>
+               <persName>
+                  <forename>Nourdine</forename>
+                  <surname>Combo</surname>
+               </persName>
+               <persName>
+                  <forename>Sabine</forename>
+                  <surname>Barreaux</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <orgName>Inist-CNRS</orgName>
+               <orgName>Lina</orgName>
+               <orgName>Inria</orgName>
+            </authority>
+            <availability n="licenceCC">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">
+                  <p>The Creative Commons Attribution 4.0 International License applies to this document.</p>
+                  <p>Any re-use of this resource should attribute its content to 
+                     <q>Corpus Termith-Eval created in the framework of the TermITH-project 
+                        (ANR-12-CORD-0029) under the responsibility of INIST-CNRS, LINA, INRIA</q>
+                  </p>
+               </licence>
+            </availability>
+            <idno type="inistIdentifier">98-0284564</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title type="main" xml:lang="fr">Amorphisation sous haute pression de la variété quartz-α de l'oxynitrure de phosphore PON</title>
+                  <title type="alt" xml:lang="en">High-pressure amorphization of the α-quartz phase of phosphorus oxynitride PON</title>
+                  <author>
+                     <persName>
+                        <forename>J.-M.</forename>
+                        <surname>LEGER</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Laboratoire de physico-chimie des matériaux, CNRS, 1, place Aristide-Briand</orgName>
+                        <address>
+                           <settlement>92195 Meudon</settlement>
+                           <country>FR</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>J.</forename>
+                        <surname>HAINES</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Laboratoire de physico-chimie des matériaux, CNRS, 1, place Aristide-Briand</orgName>
+                        <address>
+                           <settlement>92195 Meudon</settlement>
+                           <country>FR</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>L. S.</forename>
+                        <surname>DE OLIVEIRA</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Laboratoire de physico-chimie des matériaux, CNRS, 1, place Aristide-Briand</orgName>
+                        <address>
+                           <settlement>92195 Meudon</settlement>
+                           <country>FR</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>C.</forename>
+                        <surname>CHATEAU</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Laboratoire de physico-chimie des matériaux, CNRS, 1, place Aristide-Briand</orgName>
+                        <address>
+                           <settlement>92195 Meudon</settlement>
+                           <country>FR</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>A.</forename>
+                        <surname>LE SAUZE</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Laboratoire verres et céramiques, UMR CNRS 6512, université de Rennes-1, campus de Beaulieu</orgName>
+                        <address>
+                           <settlement>35042 Rennes</settlement>
+                           <country>FR</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>R.</forename>
+                        <surname>MARCHAND</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Laboratoire verres et céramiques, UMR CNRS 6512, université de Rennes-1, campus de Beaulieu</orgName>
+                        <address>
+                           <settlement>35042 Rennes</settlement>
+                           <country>FR</country>
+                        </address>
+                     </affiliation>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Comptes rendus de l'académie des sciences. Serie IIc, chimie</title>
+                  <idno type="issn">1387-1609</idno>
+                  <idno type="url">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=2285356</idno>
+                  <meeting/>
+                  <imprint>
+                     <pubPlace>
+                        <settlement>Paris</settlement>
+                        <country>FR</country>
+                     </pubPlace>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="issue">4</biblScope>
+                     <biblScope unit="pp" from="237" to="239">237-239</biblScope>
+                     <date type="published" when="1998">1998</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>TermITH (ANR-12-CORD-0029 - Contint) est un projet ANR se déroulant sur 3 ans et demi
+               (2012 - 2016) avec pour objectif de faciliter l'indexation automatique de textes en
+               sciences humaines et sociales en français en s'appuyant sur les termes qu'ils
+               contiennent.</p>
+            <p>Le présent document fait partie du corpus TermITH-Eval sur lequel différentes
+               méthodes d'indexation développées dans TermITH sont testées.</p>
+         </projectDesc>
+         <editorialDecl>
+            <normalization>
+               <p>L'élément teiHeader contient la notice bibliographique de l'Inist-CNRS</p>
+               <p>Les éléments ns:standOff contiennent les résultats d'indexation produits par
+                  différentes méthodes testées par le Lina</p>
+               <p>Les éléments ns:standOff/ns:standOff contiennent les évaluations réalisées par
+                  l'Inist-CNRS sur ces indexations</p>
+            </normalization>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="cc">
+               <term key="001C02B03">Sels.</term>
+            </keywords>
+            <keywords scheme="inist-pascal" xml:lang="fr">
+               <term xml:id="ikwfr1" type="controlled" corresp="#PhosphorusNitridesoxides">Phosphore Oxynitrure</term>
+               <term xml:id="ikwfr2" type="controlled" corresp="#Chemicalpreparation">Préparation chimique</term>
+               <term xml:id="ikwfr3" type="controlled" corresp="#Phasetransformation">Transformation phase</term>
+               <term xml:id="ikwfr4" type="controlled" corresp="#Highpressure">Haute pression</term>
+               <term xml:id="ikwfr5" type="controlled" corresp="#Latticeparameters">Paramètre cristallin</term>
+               <term xml:id="ikwfr6" type="uncontrolled">PON</term>
+               <term xml:id="ikwfr7" type="uncontrolled">N O P</term>
+            </keywords>
+            <keywords scheme="inist-pascal" xml:lang="en">
+               <term type="controlled" xml:id="PhosphorusNitridesoxides">Phosphorus Nitrides oxides</term>
+               <term type="controlled" xml:id="Chemicalpreparation">Chemical preparation</term>
+               <term type="controlled" xml:id="Phasetransformation">Phase transformation</term>
+               <term type="controlled" xml:id="Highpressure">High pressure</term>
+               <term type="controlled" xml:id="Latticeparameters">Lattice parameters</term>
+            </keywords>
+         </textClass>
+         <abstract xml:lang="fr">
+            <p>On a préparé la phase quartz-α de l'oxynitrure de phosphore PON à partir de la phase de type cristobalite par un traitement à 4,5 GPa et 750 °C. Son comportement a été étudié dans une cellule à enclumes de diamant jusqu'à 48 GPa, par diffraction angulaire des rayons X sur poudre. Le rapport cla des paramètres cristallins augmente avec la pression, mais plus lentement que pour la silice. Vers 20 GPa, ce rapport augmente brusquement de 2 %, indiquant une transformation de phase du premier ordre. L'amorphisation, progressive, est importante au-dessus de 30 GPa. Elle est complète au-dessus de 42 GPa et reste irréversible à la décompression. Les comportements sous pression des phases de type quartz-α de la silice et de PON sont similaires.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <ns:standOff type="indexation-phase3">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>Evaluation de l'indexation TermITH - phase 3</title>
+               <author role="IndexingEditor">LINA</author>
+               <author role="IndexingEvaluator">INIST-CNRS</author>
+            </titleStmt>
+            <publicationStmt>
+               <distributor>INIST-CNRS</distributor>
+               <distributor>LINA</distributor>
+               <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+               <availability>
+                  <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <p>Indexation (phase 3) du document <ref target="#inistIdentifier"/> 
+                  générée automatiquement dans le cadre du projet TermITH</p>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <textDesc>
+               <channel mode="w"/>
+               <constitution type="composite"/>
+               <derivation type="original"/>
+               <domain>linguistique, archéologie, sciences de l'information, chimie</domain>
+               <factuality type="inapplicable"/>
+               <interaction type="inapplicable"/>
+               <preparedness type="formulaic"/>
+               <purpose>La phase 3 porte sur l'évaluation de l'indexation proposée par différentes 
+                  méthodes exploitant la notice bibliographique (partie "teiHeader")</purpose>
+            </textDesc>
+         </profileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>L'organisation des résultats d'indexation et de leur évaluation passe par plusieurs ns:standOff imbriqués.</p>
+               <p>Au deuxième niveau, on trouve un standOff par méthode appliquée.</p>
+               <p>Pour chaque standOff d'une méthode, typé par un xml:id dont la valeur indique la phase 
+                  et la méthode, on trouve les termes-clés produits par la méthode dans un élément ns:listAnnotation 
+                  et leur évaluation dans un standOff de troisième niveau.</p>
+               <p>Le standOff d'évaluation dispose de deux éléments ns:listAnnotation, l'un pour l'évaluation en 
+                  pertinence, l'autre pour l'évaluation en silence.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <ns:standOff type="p3mi2">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:topicrank:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:topicrank:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">gpa</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">phase quartz-α</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">haute pression</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">phosphore pon</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">amorphisation</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">silice</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">comportement</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">rapport cla</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">type</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">oxynitrure</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi2-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi2kw1">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw2">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw3">
+                  <ptr type="INISTForm" target="#ikwfr4"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw4">
+                  <ptr type="INISTForm" target="#ikwfr6"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : oxynitrure de phosphore</note>
+               </span>
+               <span from="#p3mi2kw5">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw6">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw7">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw8">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw9">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw10">
+                  <ptr type="INISTForm" target="#ikwfr1"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : oxynitrure de phosphore</note>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <ptr type="TermithForm" target="#p3mi2kw10"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr2">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi2kw2"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <ptr type="TermithForm" target="#p3mi2kw3"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <ptr type="TermithForm" target="#p3mi2kw4"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+      <ns:standOff type="p3mi1">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:tfidf:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:tfidf:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">gpa</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">pon</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">amorphisation</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">phase quartz-α</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">phosphore pon</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">type quartz-α</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">oxynitrure</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">variété quartz-α</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">pression</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">silice</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi1-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi1kw1">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw2">
+                  <ptr type="INISTForm" target="#ikwfr6"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : oxynitrure de phosphore</note>
+               </span>
+               <span from="#p3mi1kw3">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw4">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw5">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : oxynitrure de phosphore</note>
+               </span>
+               <span from="#p3mi1kw6">
+                  <ptr type="preferredForm" target="#p3mi1kw4"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw7">
+                  <ptr type="INISTForm" target="#ikwfr1"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : oxynitrure de phosphore</note>
+               </span>
+               <span from="#p3mi1kw8">
+                  <ptr type="preferredForm" target="#p3mi1kw4"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw9">
+                  <ptr type="INISTForm" target="#ikwfr4"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw10">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <ptr type="TermithForm" target="#p3mi1kw7"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr2">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi1kw4"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <ptr type="TermithForm" target="#p3mi1kw9"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <ptr type="TermithForm" target="#p3mi1kw2"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+      <ns:standOff type="p3mi4">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:kea:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:kea:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">gpa</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">pon</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">pression</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">amorphisation</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">oxynitrure</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">phosphore pon</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">haute pression</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">variété quartz-α</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">phase quartz-α</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">phase</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi4-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi4kw1">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw2">
+                  <ptr type="INISTForm" target="#ikwfr6"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : oxynitrure de phosphore</note>
+               </span>
+               <span from="#p3mi4kw3">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw4">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw5">
+                  <ptr type="INISTForm" target="#ikwfr1"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : oxynitrure de phosphore</note>
+               </span>
+               <span from="#p3mi4kw6">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : oxynitrure de phosphore</note>
+               </span>
+               <span from="#p3mi4kw7">
+                  <ptr type="INISTForm" target="#ikwfr4"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw8">
+                  <ptr type="preferredForm" target="#p3mi4kw9"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw9">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw10">
+                  <ptr type="preferredForm" target="#p3mi4kw9"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <ptr type="TermithForm" target="#p3mi4kw5"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr2">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi4kw9"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <ptr type="TermithForm" target="#p3mi4kw7"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <ptr type="TermithForm" target="#p3mi4kw2"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+   </ns:standOff>
+</TEI>

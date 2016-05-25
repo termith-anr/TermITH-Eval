@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:ns="http://standoff.proposal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="fr">L'ENVIRONNEMENT TARDIGLACIAIRE PRÉALPIN: essai de restitution basée sur le potentiel climatique et écologique des microvertébrés</title>
+            <respStmt>
+               <resp>Extraction de la base Inist Exodic</resp>
+               <persName>
+                  <forename>Flora</forename>
+                  <surname>Badin</surname>
+               </persName>
+               <persName>
+                  <forename>Nicolas</forename>
+                  <surname>Thouvenin</surname>
+               </persName>
+               <persName>
+                  <forename>Nourdine</forename>
+                  <surname>Combo</surname>
+               </persName>
+               <persName>
+                  <forename>Sabine</forename>
+                  <surname>Barreaux</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <orgName>Inist-CNRS</orgName>
+               <orgName>Lina</orgName>
+               <orgName>Inria</orgName>
+            </authority>
+            <availability n="licenceCC">
+               <licence target="http://creativecommons.org/licenses/by/4.0/">
+                  <p>The Creative Commons Attribution 4.0 International License applies to this document.</p>
+                  <p>Any re-use of this resource should attribute its content to 
+                     <q>Corpus Termith-Eval created in the framework of the TermITH-project 
+                        (ANR-12-CORD-0029) under the responsibility of INIST-CNRS, LINA, INRIA</q>
+                  </p>
+               </licence>
+            </availability>
+            <idno type="inistIdentifier">10-0505472</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title type="main" xml:lang="fr">L'ENVIRONNEMENT TARDIGLACIAIRE PRÉALPIN: essai de restitution basée sur le potentiel climatique et écologique des microvertébrés</title>
+                  <author>
+                     <persName>
+                        <forename>Marcel</forename>
+                        <surname>JEANNET</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>UMR 6636; MMSH, 5 rue du Château de l'Horloge, BP 647</orgName>
+                        <address>
+                           <settlement>13094 Aix en Provence</settlement>
+                           <country>FR</country>
+                        </address>
+                     </affiliation>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Revue archéologique de l'Est</title>
+                  <idno type="issn">1266-7706</idno>
+                  <idno type="url">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=22410210</idno>
+                  <meeting/>
+                  <imprint>
+                     <pubPlace>
+                        <settlement>Dijon</settlement>
+                        <country>FR</country>
+                     </pubPlace>
+                     <biblScope unit="volume">58</biblScope>
+                     <biblScope unit="pp" from="5" to="56">5-56</biblScope>
+                     <date type="published" when="2009">2009</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>TermITH (ANR-12-CORD-0029 - Contint) est un projet ANR se déroulant sur 3 ans et demi
+               (2012 - 2016) avec pour objectif de faciliter l'indexation automatique de textes en
+               sciences humaines et sociales en français en s'appuyant sur les termes qu'ils
+               contiennent.</p>
+            <p>Le présent document fait partie du corpus TermITH-Eval sur lequel différentes
+               méthodes d'indexation développées dans TermITH sont testées.</p>
+         </projectDesc>
+         <editorialDecl>
+            <normalization>
+               <p>L'élément teiHeader contient la notice bibliographique de l'Inist-CNRS</p>
+               <p>Les éléments ns:standOff contiennent les résultats d'indexation produits par
+                  différentes méthodes testées par le Lina</p>
+               <p>Les éléments ns:standOff/ns:standOff contiennent les évaluations réalisées par
+                  l'Inist-CNRS sur ces indexations</p>
+            </normalization>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="cc">
+               <term key="52525">Etude du milieu.</term>
+               <term key="525II">METHODOLOGIE ET ETUDES GENERALES</term>
+               <term key="52549">Généralités.</term>
+               <term key="525III">EUROPE</term>
+               <term key="525">PREHISTOIRE ET PROTOHISTOIRE</term>
+            </keywords>
+            <keywords scheme="inist-francis" xml:lang="fr">
+               <term xml:id="ikwfr1" type="controlled" corresp="#Europe">Europe</term>
+               <term xml:id="ikwfr2" type="controlled" corresp="#Pleistocene">Pléistocène</term>
+               <term xml:id="ikwfr3" type="uncontrolled">Microvertébré</term>
+               <term xml:id="ikwfr4" type="controlled" corresp="#Microfauna">Microfaune</term>
+               <term xml:id="ikwfr5" type="controlled" corresp="#Climatology">Climatologie</term>
+               <term xml:id="ikwfr6" type="controlled" corresp="#Ecology">Ecologie</term>
+               <term xml:id="ikwfr7" type="controlled" corresp="#Paleoenvironment">Paléoenvironnement</term>
+               <term xml:id="ikwfr8" type="controlled" corresp="#Lateglacial">Tardiglaciaire</term>
+               <term xml:id="ikwfr9" type="controlled" corresp="#France">France</term>
+            </keywords>
+            <keywords scheme="inist-francis" xml:lang="en">
+               <term type="controlled" xml:id="Europe">Europe</term>
+               <term type="controlled" xml:id="Pleistocene">Pleistocene</term>
+               <term type="controlled" xml:id="Microfauna">Microfauna</term>
+               <term type="controlled" xml:id="Climatology">Climatology</term>
+               <term type="controlled" xml:id="Ecology">Ecology</term>
+               <term type="controlled" xml:id="Paleoenvironment">Paleoenvironment</term>
+               <term type="controlled" xml:id="Lateglacial">Late glacial</term>
+               <term type="controlled" xml:id="France">France</term>
+            </keywords>
+         </textClass>
+         <abstract xml:lang="fr">
+            <p>Chaque chercheur dans sa spécialité tente de définir et d'affiner les conditions climatiques et environnementales du site qu'il étudie. La comparaison aux résultats obtenus par d'autres méthodes permet une insertion dans le réseau chronologique traditionnel de référence telle que la variation isotopique de l'oxygène (O<hi rend="superscript">18</hi>/O<hi rend="superscript">16</hi>) des fonds marins ou des glaces du Groenland L'innovation n'est plus désormais dans la création de nouvelles méthodes mais dans leur adaptation aux problématiques variées de chaque site (prédation, taphonomie, saisonnalité, consommation des proies et plus largement écologie, climatologie et biochronologie, etc.). Ce principe nous offre donc la possibilité de reprendre des études anciennes dans une version différente, élargie à divers groupes de microvertébrés et quantifiée, facilitant les comparaisons entre les niveaux et les sites, ainsi que le rapprochement avec les courbes climatiques de référence. Après avoir rassemblé les listes de microfaune, chaque espèce étant définie quantitativement par les moyennes climatiques de son domaine géographique, le gisement peut alors présenter, par la succession de ses niveaux, l'évolution des courbes des divers paramètres climatiques et environnementaux. En imbriquant chronologiquement les niveaux des divers sites et les valeurs paramétriques, il est possible d'élaborer des diagrammes de synthèse régionale où les biozones tardiglaciaires sont assez clairement mises en évidence.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <ns:standOff type="indexation-phase3">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>Evaluation de l'indexation TermITH - phase 3</title>
+               <author role="IndexingEditor">LINA</author>
+               <author role="IndexingEvaluator">INIST-CNRS</author>
+            </titleStmt>
+            <publicationStmt>
+               <distributor>INIST-CNRS</distributor>
+               <distributor>LINA</distributor>
+               <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+               <availability>
+                  <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <p>Indexation (phase 3) du document <ref target="#inistIdentifier"/> 
+                  générée automatiquement dans le cadre du projet TermITH</p>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <textDesc>
+               <channel mode="w"/>
+               <constitution type="composite"/>
+               <derivation type="original"/>
+               <domain>linguistique, archéologie, sciences de l'information, chimie</domain>
+               <factuality type="inapplicable"/>
+               <interaction type="inapplicable"/>
+               <preparedness type="formulaic"/>
+               <purpose>La phase 3 porte sur l'évaluation de l'indexation proposée par différentes 
+                  méthodes exploitant la notice bibliographique (partie "teiHeader")</purpose>
+            </textDesc>
+         </profileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>L'organisation des résultats d'indexation et de leur évaluation passe par plusieurs ns:standOff imbriqués.</p>
+               <p>Au deuxième niveau, on trouve un standOff par méthode appliquée.</p>
+               <p>Pour chaque standOff d'une méthode, typé par un xml:id dont la valeur indique la phase 
+                  et la méthode, on trouve les termes-clés produits par la méthode dans un élément ns:listAnnotation 
+                  et leur évaluation dans un standOff de troisième niveau.</p>
+               <p>Le standOff d'évaluation dispose de deux éléments ns:listAnnotation, l'un pour l'évaluation en 
+                  pertinence, l'autre pour l'évaluation en silence.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <ns:standOff type="p3mi2">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:topicrank:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:topicrank:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">site</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">potentiel climatique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">écologique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">niveaux</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">microvertébrés</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">environnementales</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">environnement tardiglaciaire préalpin</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">courbes climatiques</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">divers paramètres climatiques</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">essai</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi2-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi2kw1">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw2">
+                  <ptr type="INISTForm" target="#ikwfr5"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : climatologie</note>
+               </span>
+               <span from="#p3mi2kw3">
+                  <ptr type="INISTForm" target="#ikwfr6"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : écologie</note>
+               </span>
+               <span from="#p3mi2kw4">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw5">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi2kw6">
+                  <ptr type="INISTForm" target="#ikwfr7"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : environnement</note>
+               </span>
+               <span from="#p3mi2kw7">
+                  <ptr type="INISTForm" target="#ikwfr8"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : tardiglaciaire</note>
+               </span>
+               <span from="#p3mi2kw8">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : courbes climatiques de référence</note>
+               </span>
+               <span from="#p3mi2kw9">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : climatologie</note>
+               </span>
+               <span from="#p3mi2kw10">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr2">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi2kw5"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <ptr type="TermithForm" target="#p3mi2kw2"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <ptr type="TermithForm" target="#p3mi2kw3"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr7">
+                  <ptr type="TermithForm" target="#p3mi2kw6"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr8">
+                  <ptr type="TermithForm" target="#p3mi2kw7"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr9">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+      <ns:standOff type="p3mi1">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:tfidf:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:tfidf:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">microvertébrés</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">courbes climatiques</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">moyennes climatiques</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">conditions climatiques</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">courbes</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">divers paramètres climatiques</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">niveaux</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">référence</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">o16</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">o18</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi1-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi1kw1">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw2">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : courbes climatiques de référence</note>
+               </span>
+               <span from="#p3mi1kw3">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw4">
+                  <ptr type="INISTForm" target="#ikwfr5"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : climatologie</note>
+               </span>
+               <span from="#p3mi1kw5">
+                  <ptr type="preferredForm" target="#p3mi1kw2"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw6">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : climatologie</note>
+               </span>
+               <span from="#p3mi1kw7">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw8">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>Trop générique.</note>
+               </span>
+               <span from="#p3mi1kw9">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi1kw10">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr2">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi1kw1"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <ptr type="TermithForm" target="#p3mi1kw4"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr7">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Implicite.</note>
+               </span>
+               <span from="#ikwfr8">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr9">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+      <ns:standOff type="p3mi4">
+         <teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Indexation TermITH</title>
+                  <author role="IndexingEditor">LINA</author>
+               </titleStmt>
+               <publicationStmt>
+                  <distributor>INIST-CNRS</distributor>
+                  <distributor>LINA</distributor>
+                  <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                  </availability>
+               </publicationStmt>
+               <sourceDesc>
+                  <p>Indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+                     générée automatiquement dans le cadre du projet TermITH</p>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <appInfo>
+                  <application ident="lina-3:notice:kea:sequences_nom_adj" version="1.0">
+                     <label>lina-3:notice:kea:sequences_nom_adj</label>
+                  </application>
+               </appInfo>
+            </encodingDesc>
+         </teiHeader>
+      <!-- termes-cles -->
+         <ns:listAnnotation>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw1">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">microvertébrés</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw2">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">environnement tardiglaciaire préalpin</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw3">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">potentiel climatique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw4">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">écologique</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw5">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">essai</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw6">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">restitution</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw7">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">spécialité</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw8">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">chercheur</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw9">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">conditions climatiques</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+            <termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw10">
+               <langSet xml:lang="fr">
+                  <tig>
+                     <term xmlns="http://www.tei-c.org/ns/1.0">environnementales</term>
+                  </tig>
+               </langSet>
+            </termEntry>
+         </ns:listAnnotation>
+         <ns:standOff type="p3mi4-eval">
+         <!--standOff subordonné au standOff principal-->
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>Évaluation indexation</title>
+                     <author role="IndexingEvaluator">INIST-CNRS</author>
+                  </titleStmt>
+                  <publicationStmt>
+                     <distributor>INIST-CNRS</distributor>
+                     <distributor>LINA</distributor>
+                     <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+                     <availability>
+                        <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+                     </availability>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>Evaluation de l'indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+                        générée automatiquement dans le cadre du projet TermITH</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <appInfo>
+                  <!--nom de l'outil d'évaluation-->
+                     <application ident="idefix" version="7.9.1">
+                        <label>idefix</label>
+                     </application>
+                  </appInfo>
+               </encodingDesc>
+            </teiHeader>
+            <ns:listAnnotation type="pertinence">
+               <span from="#p3mi4kw1">
+                  <ptr type="INISTForm" target="#ikwfr3"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw2">
+                  <ptr type="INISTForm" target="#ikwfr8"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : tardiglaciaire</note>
+               </span>
+               <span from="#p3mi4kw3">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : climatologie</note>
+               </span>
+               <span from="#p3mi4kw4">
+                  <ptr type="INISTForm" target="#ikwfr6"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : écologie</note>
+               </span>
+               <span from="#p3mi4kw5">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw6">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw7">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw8">
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#p3mi4kw9">
+                  <ptr type="INISTForm" target="#ikwfr5"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : climatologie</note>
+               </span>
+               <span from="#p3mi4kw10">
+                  <ptr type="INISTForm" target="#ikwfr7"/>
+                  <fs>
+                     <f name="pertinence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(P) Forme préférée dans le texte : environnement</note>
+               </span>
+            </ns:listAnnotation>
+            <ns:listAnnotation type="silence">
+               <span from="#ikwfr1">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr2">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="1"/>
+                     </f>
+                  </fs>
+                  <note>(S) Générique.</note>
+               </span>
+               <span from="#ikwfr3">
+                  <ptr type="TermithForm" target="#p3mi4kw1"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr4">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="2"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr5">
+                  <ptr type="TermithForm" target="#p3mi4kw9"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr6">
+                  <ptr type="TermithForm" target="#p3mi4kw4"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr7">
+                  <ptr type="TermithForm" target="#p3mi4kw10"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr8">
+                  <ptr type="TermithForm" target="#p3mi4kw2"/>
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+               </span>
+               <span from="#ikwfr9">
+                  <fs>
+                     <f name="silence">
+                        <numeric value="0"/>
+                     </f>
+                  </fs>
+                  <note>(S) Notion absente du résumé.</note>
+               </span>
+            </ns:listAnnotation>
+         </ns:standOff>
+      </ns:standOff>
+   </ns:standOff>
+</TEI>

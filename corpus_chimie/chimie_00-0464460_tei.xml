@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:ns="http://standoff.proposal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="fr">Structure cristalline d'un nouvel hydroxyphosphate naturel de strontium, fer et aluminium (lulzacite), Sr<hi rend="subscript">2</hi>Fe(Fe<hi rend="subscript">0,63</hi>Mg<hi rend="subscript">0,37</hi>)<hi rend="subscript">2</hi>Al<hi rend="subscript">4</hi>(PO<hi rend="subscript">4</hi>)<hi rend="subscript">4</hi>(OH)<hi rend="subscript">10</hi>
+         </title>
+         <title type="alt" xml:lang="en">Crystal structure of a new natural strontium, iron and aluminium hydroxyphosphate (lulzacite): Sr<hi rend="subscript">2</hi>Fe(Fe<hi rend="subscript">0.63</hi>Mg<hi rend="subscript">0.37</hi>)<hi rend="subscript">2</hi>Al<hi rend="subscript">4</hi>(PO<hi rend="subscript">4</hi>)<hi rend="subscript">4</hi>(OH)<hi rend="subscript">10</hi>
+      </title>
+      <respStmt>
+         <resp>Extraction de la base Inist Exodic</resp>
+         <persName>
+            <forename>Flora</forename>
+            <surname>Badin</surname>
+         </persName>
+         <persName>
+            <forename>Nicolas</forename>
+            <surname>Thouvenin</surname>
+         </persName>
+         <persName>
+            <forename>Nourdine</forename>
+            <surname>Combo</surname>
+         </persName>
+         <persName>
+            <forename>Sabine</forename>
+            <surname>Barreaux</surname>
+         </persName>
+      </respStmt>
+   </titleStmt>
+   <publicationStmt>
+      <authority>
+         <orgName>Inist-CNRS</orgName>
+         <orgName>Lina</orgName>
+         <orgName>Inria</orgName>
+      </authority>
+      <availability n="licenceCC">
+         <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>The Creative Commons Attribution 4.0 International License applies to this document.</p>
+            <p>Any re-use of this resource should attribute its content to 
+               <q>Corpus Termith-Eval created in the framework of the TermITH-project 
+                  (ANR-12-CORD-0029) under the responsibility of INIST-CNRS, LINA, INRIA</q>
+            </p>
+         </licence>
+      </availability>
+      <idno type="inistIdentifier">00-0464460</idno>
+   </publicationStmt>
+   <sourceDesc>
+      <biblStruct type="article">
+         <analytic>
+            <title type="main" xml:lang="fr">Structure cristalline d'un nouvel hydroxyphosphate naturel de strontium, fer et aluminium (lulzacite), Sr<hi rend="subscript">2</hi>Fe(Fe<hi rend="subscript">0,63</hi>Mg<hi rend="subscript">0,37</hi>)<hi rend="subscript">2</hi>Al<hi rend="subscript">4</hi>(PO<hi rend="subscript">4</hi>)<hi rend="subscript">4</hi>(OH)<hi rend="subscript">10</hi>
+         </title>
+         <title type="alt" xml:lang="en">Crystal structure of a new natural strontium, iron and aluminium hydroxyphosphate (lulzacite): Sr<hi rend="subscript">2</hi>Fe(Fe<hi rend="subscript">0.63</hi>Mg<hi rend="subscript">0.37</hi>)<hi rend="subscript">2</hi>Al<hi rend="subscript">4</hi>(PO<hi rend="subscript">4</hi>)<hi rend="subscript">4</hi>(OH)<hi rend="subscript">10</hi>
+      </title>
+      <author>
+         <persName>
+            <forename>P.</forename>
+            <surname>LEONE</surname>
+         </persName>
+         <affiliation>
+            <orgName>Laboratoire de chimie des solides, Institut des matériaux Jean-Rouxel, UMR CNRS 6502, 2, rue de la Houssinière, BP 32 229</orgName>
+            <address>
+               <settlement>44322 Nantes</settlement>
+               <country>FR</country>
+            </address>
+         </affiliation>
+      </author>
+      <author>
+         <persName>
+            <forename>P.</forename>
+            <surname>PALVADEAU</surname>
+         </persName>
+         <affiliation>
+            <orgName>Laboratoire de chimie des solides, Institut des matériaux Jean-Rouxel, UMR CNRS 6502, 2, rue de la Houssinière, BP 32 229</orgName>
+            <address>
+               <settlement>44322 Nantes</settlement>
+               <country>FR</country>
+            </address>
+         </affiliation>
+      </author>
+      <author>
+         <persName>
+            <forename>Y.</forename>
+            <surname>MOËLO</surname>
+         </persName>
+         <affiliation>
+            <orgName>Laboratoire de chimie des solides, Institut des matériaux Jean-Rouxel, UMR CNRS 6502, 2, rue de la Houssinière, BP 32 229</orgName>
+            <address>
+               <settlement>44322 Nantes</settlement>
+               <country>FR</country>
+            </address>
+         </affiliation>
+      </author>
+   </analytic>
+   <monogr>
+      <title level="j" type="main">Comptes rendus de l'académie des sciences. Serie IIc, chimie</title>
+      <idno type="issn">1387-1609</idno>
+      <idno type="url">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=1485296</idno>
+      <meeting/>
+      <imprint>
+         <pubPlace>
+            <settlement>Paris</settlement>
+            <country>FR</country>
+         </pubPlace>
+         <biblScope unit="volume">3</biblScope>
+         <biblScope unit="issue">4</biblScope>
+         <biblScope unit="pp" from="301" to="308">301-308</biblScope>
+         <date type="published" when="2000">2000</date>
+      </imprint>
+   </monogr>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>TermITH (ANR-12-CORD-0029 - Contint) est un projet ANR se déroulant sur 3 ans et demi
+   (2012 - 2016) avec pour objectif de faciliter l'indexation automatique de textes en
+   sciences humaines et sociales en français en s'appuyant sur les termes qu'ils
+   contiennent.</p>
+<p>Le présent document fait partie du corpus TermITH-Eval sur lequel différentes
+   méthodes d'indexation développées dans TermITH sont testées.</p>
+</projectDesc>
+<editorialDecl>
+<normalization>
+   <p>L'élément teiHeader contient la notice bibliographique de l'Inist-CNRS</p>
+   <p>Les éléments ns:standOff contiennent les résultats d'indexation produits par
+      différentes méthodes testées par le Lina</p>
+   <p>Les éléments ns:standOff/ns:standOff contiennent les évaluations réalisées par
+      l'Inist-CNRS sur ces indexations</p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="fr">fre</language>
+</langUsage>
+<textClass>
+<keywords scheme="cc">
+   <term key="220A03">Non silicates.</term>
+   <term key="001E01A03">Non silicates.</term>
+</keywords>
+<keywords scheme="inist-pascal" xml:lang="fr">
+   <term xml:id="ikwfr1" type="controlled" corresp="#Crystallinestructure">Structure cristalline</term>
+   <term xml:id="ikwfr2" type="controlled" corresp="#Newmineral">Minéral nouveau</term>
+   <term xml:id="ikwfr3" type="controlled" corresp="#Phosphates">Phosphate</term>
+   <term xml:id="ikwfr4" type="controlled" corresp="#Strontium">Strontium</term>
+   <term xml:id="ikwfr5" type="uncontrolled" corresp="#structuralformula">Formule structurale</term>
+   <term xml:id="ikwfr6" type="controlled" corresp="#Xraydiffraction">Diffraction RX</term>
+   <term xml:id="ikwfr7" type="uncontrolled" corresp="#singlecrystaldiagrams">Diagramme monocristal</term>
+   <term xml:id="ikwfr8" type="uncontrolled" corresp="#unitcell">Maille élémentaire</term>
+   <term xml:id="ikwfr9" type="uncontrolled" corresp="#celldimensions">Constante réticulaire</term>
+   <term xml:id="ikwfr10" type="uncontrolled" corresp="#crystalsystems">Système cristallin</term>
+   <term xml:id="ikwfr11" type="controlled" corresp="#Spacegroup">Groupe espace</term>
+   <term xml:id="ikwfr12" type="uncontrolled" corresp="#atomicpacking">Empilement atome</term>
+   <term xml:id="ikwfr13" type="controlled" corresp="#Coordinence">Coordinence</term>
+   <term xml:id="ikwfr14" type="uncontrolled" corresp="#interatomicbond">Liaison interatomique</term>
+   <term xml:id="ikwfr15" type="uncontrolled">Lulzacite</term>
+   <term xml:id="ikwfr16" type="uncontrolled">Hydroxyphosphate</term>
+</keywords>
+<keywords scheme="inist-pascal" xml:lang="en">
+   <term type="controlled" xml:id="Crystallinestructure">Crystalline structure</term>
+   <term type="controlled" xml:id="Newmineral">New mineral</term>
+   <term type="controlled" xml:id="Phosphates">Phosphates</term>
+   <term type="controlled" xml:id="Strontium">Strontium</term>
+   <term type="uncontrolled" xml:id="structuralformula">structural formula</term>
+   <term type="controlled" xml:id="Xraydiffraction">X ray diffraction</term>
+   <term type="uncontrolled" xml:id="singlecrystaldiagrams">single-crystal diagrams</term>
+   <term type="uncontrolled" xml:id="unitcell">unit cell</term>
+   <term type="uncontrolled" xml:id="celldimensions">cell dimensions</term>
+   <term type="uncontrolled" xml:id="crystalsystems">crystal systems</term>
+   <term type="controlled" xml:id="Spacegroup">Space group</term>
+   <term type="uncontrolled" xml:id="atomicpacking">atomic packing</term>
+   <term type="controlled" xml:id="Coordinence">Coordinence</term>
+   <term type="uncontrolled" xml:id="interatomicbond">interatomic bond</term>
+</keywords>
+</textClass>
+<abstract xml:lang="fr">
+<p>La structure cristalline d'un nouvel hydroxyphosphate naturel de strontium, fer et aluminium (lulzacite) a été résolue par étude d'un monocristal aux rayons X: - symétrie triclinique (P1); - paramètres de maille: a = 5,457(1) Å, b = 9,131(2) Å, c = 9,769(2) Å, α = 108,47(3)°, β = 91,72(3)° et γ = 97,44(3)°, - formule structurale: (Sr<hi rend="subscript">0.96</hi>Ba<hi rend="subscript">0.04</hi>)<hi rend="subscript">2</hi>Fe(Fe<hi rend="subscript">0.63</hi>Mg<hi rend="subscript">0.37</hi>)<hi rend="subscript">2</hi>Al<hi rend="subscript">4</hi>[(P<hi rend="subscript">0.98</hi>V<hi rend="subscript">0.02</hi>)O<hi rend="subscript">4</hi>]<hi rend="subscript">4</hi>(OH)<hi rend="subscript">10</hi> (Z=1). La structure montre l'alternance selon l'axe b, d'une part, de chaînes infinies parallèles à l'axe a, dont le motif se compose d'un octaèdre Fe<hi rend="superscript">2+</hi>O<hi rend="subscript">6</hi> suivi d'une paire d'octaèdres AlO<hi rend="subscript">6</hi> et, d'autre part, de trimères formés d'un octaèdre AlO<hi rend="subscript">6</hi> encadré par deux octaèdres (Fe<hi rend="superscript">2+</hi>,Mg)O<hi rend="subscript">6</hi>. Trimères et chaînes sont liés par les sommets d'un octaèdre AlO<hi rend="subscript">6</hi> et de deux tétraèdres PO<hi rend="subscript">4</hi>. Les ions strontium occupent les tunnels formés par la structure. Cette structure est isotype de celle de la jamésite (arséniate de plomb). Des sous-motifs analogues se retrouvent dans certaines espèces minérales, les trimères dans la ludlamite (phosphate de fer), les chaînes dans différents hydroxosels.</p>
+</abstract>
+</profileDesc>
+</teiHeader>
+<ns:standOff type="indexation-phase3">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+   <title>Evaluation de l'indexation TermITH - phase 3</title>
+   <author role="IndexingEditor">LINA</author>
+   <author role="IndexingEvaluator">INIST-CNRS</author>
+</titleStmt>
+<publicationStmt>
+   <distributor>INIST-CNRS</distributor>
+   <distributor>LINA</distributor>
+   <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+   <availability>
+      <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+   </availability>
+</publicationStmt>
+<sourceDesc>
+   <p>Indexation (phase 3) du document <ref target="#inistIdentifier"/> 
+      générée automatiquement dans le cadre du projet TermITH</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textDesc>
+   <channel mode="w"/>
+   <constitution type="composite"/>
+   <derivation type="original"/>
+   <domain>linguistique, archéologie, sciences de l'information, chimie</domain>
+   <factuality type="inapplicable"/>
+   <interaction type="inapplicable"/>
+   <preparedness type="formulaic"/>
+   <purpose>La phase 3 porte sur l'évaluation de l'indexation proposée par différentes 
+      méthodes exploitant la notice bibliographique (partie "teiHeader")</purpose>
+</textDesc>
+</profileDesc>
+<encodingDesc>
+<projectDesc>
+   <p>L'organisation des résultats d'indexation et de leur évaluation passe par plusieurs ns:standOff imbriqués.</p>
+   <p>Au deuxième niveau, on trouve un standOff par méthode appliquée.</p>
+   <p>Pour chaque standOff d'une méthode, typé par un xml:id dont la valeur indique la phase 
+      et la méthode, on trouve les termes-clés produits par la méthode dans un élément ns:listAnnotation 
+      et leur évaluation dans un standOff de troisième niveau.</p>
+   <p>Le standOff d'évaluation dispose de deux éléments ns:listAnnotation, l'un pour l'évaluation en 
+      pertinence, l'autre pour l'évaluation en silence.</p>
+</projectDesc>
+</encodingDesc>
+</teiHeader>
+<ns:standOff type="p3mi2">
+<teiHeader>
+<fileDesc>
+   <titleStmt>
+      <title>Indexation TermITH</title>
+      <author role="IndexingEditor">LINA</author>
+   </titleStmt>
+   <publicationStmt>
+      <distributor>INIST-CNRS</distributor>
+      <distributor>LINA</distributor>
+      <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+      <availability>
+         <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+      </availability>
+   </publicationStmt>
+   <sourceDesc>
+      <p>Indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+         générée automatiquement dans le cadre du projet TermITH</p>
+   </sourceDesc>
+</fileDesc>
+<encodingDesc>
+   <appInfo>
+      <application ident="lina-3:notice:topicrank:sequences_nom_adj" version="1.0">
+         <label>lina-3:notice:topicrank:sequences_nom_adj</label>
+      </application>
+   </appInfo>
+</encodingDesc>
+</teiHeader>
+<!-- termes-cles -->
+<ns:listAnnotation>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw1">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">structure cristalline</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw2">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">octaèdre fe2+o6</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw3">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">strontium</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw4">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">trimères</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw5">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">chaînes infinies parallèles</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw6">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">fer</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw7">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">po4</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw8">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">tunnels</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw9">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">arséniate</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi2kw10">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">jamésite</term>
+      </tig>
+   </langSet>
+</termEntry>
+</ns:listAnnotation>
+<ns:standOff type="p3mi2-eval">
+<!--standOff subordonné au standOff principal-->
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Évaluation indexation</title>
+         <author role="IndexingEvaluator">INIST-CNRS</author>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>INIST-CNRS</distributor>
+         <distributor>LINA</distributor>
+         <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+         <availability>
+            <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+         </availability>
+      </publicationStmt>
+      <sourceDesc>
+         <p>Evaluation de l'indexation (phase 3, méthode 2) du document <ref target="#inistIdentifier"/> 
+            générée automatiquement dans le cadre du projet TermITH</p>
+      </sourceDesc>
+   </fileDesc>
+   <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+      <appInfo>
+      <!--nom de l'outil d'évaluation-->
+         <application ident="idefix" version="7.9.1">
+            <label>idefix</label>
+         </application>
+      </appInfo>
+   </encodingDesc>
+</teiHeader>
+<ns:listAnnotation type="pertinence">
+   <span from="#p3mi2kw1">
+      <ptr type="INISTForm" target="#ikwfr1"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi2kw2">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi2kw3">
+      <ptr type="INISTForm" target="#ikwfr4"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : hydroxyphosphate naturel de strontium, fer et aluminium</note>
+   </span>
+   <span from="#p3mi2kw4">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi2kw5">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi2kw6">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : hydroxyphosphate naturel de strontium, fer et aluminium</note>
+   </span>
+   <span from="#p3mi2kw7">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : tétraèdres PO4</note>
+   </span>
+   <span from="#p3mi2kw8">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi2kw9">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : arséniate de plomb</note>
+   </span>
+   <span from="#p3mi2kw10">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+</ns:listAnnotation>
+<ns:listAnnotation type="silence">
+   <span from="#ikwfr1">
+      <ptr type="TermithForm" target="#p3mi2kw1"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr2">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : nouvel hydroxyphosphate naturel</note>
+   </span>
+   <span from="#ikwfr3">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr4">
+      <ptr type="TermithForm" target="#p3mi2kw3"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr5">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr6">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr7">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : monocristal</note>
+   </span>
+   <span from="#ikwfr8">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : paramètres de maille</note>
+   </span>
+   <span from="#ikwfr9">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr10">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr11">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr12">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr13">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr14">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr15">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr16">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+</ns:listAnnotation>
+</ns:standOff>
+</ns:standOff>
+<ns:standOff type="p3mi1">
+<teiHeader>
+<fileDesc>
+   <titleStmt>
+      <title>Indexation TermITH</title>
+      <author role="IndexingEditor">LINA</author>
+   </titleStmt>
+   <publicationStmt>
+      <distributor>INIST-CNRS</distributor>
+      <distributor>LINA</distributor>
+      <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+      <availability>
+         <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+      </availability>
+   </publicationStmt>
+   <sourceDesc>
+      <p>Indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+         générée automatiquement dans le cadre du projet TermITH</p>
+   </sourceDesc>
+</fileDesc>
+<encodingDesc>
+   <appInfo>
+      <application ident="lina-3:notice:tfidf:sequences_nom_adj" version="1.0">
+         <label>lina-3:notice:tfidf:sequences_nom_adj</label>
+      </application>
+   </appInfo>
+</encodingDesc>
+</teiHeader>
+<!-- termes-cles -->
+<ns:listAnnotation>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw1">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">trimères</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw2">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">strontium</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw3">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">2al4</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw4">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">lulzacite</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw5">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">chaînes</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw6">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">structure</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw7">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">octaèdre alo6</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw8">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">fer</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw9">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">octaèdres</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi1kw10">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">ions strontium</term>
+      </tig>
+   </langSet>
+</termEntry>
+</ns:listAnnotation>
+<ns:standOff type="p3mi1-eval">
+<!--standOff subordonné au standOff principal-->
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Évaluation indexation</title>
+         <author role="IndexingEvaluator">INIST-CNRS</author>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>INIST-CNRS</distributor>
+         <distributor>LINA</distributor>
+         <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+         <availability>
+            <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+         </availability>
+      </publicationStmt>
+      <sourceDesc>
+         <p>Evaluation de l'indexation (phase 3, méthode 1) du document <ref target="#inistIdentifier"/> 
+            générée automatiquement dans le cadre du projet TermITH</p>
+      </sourceDesc>
+   </fileDesc>
+   <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+      <appInfo>
+      <!--nom de l'outil d'évaluation-->
+         <application ident="idefix" version="7.9.1">
+            <label>idefix</label>
+         </application>
+      </appInfo>
+   </encodingDesc>
+</teiHeader>
+<ns:listAnnotation type="pertinence">
+   <span from="#p3mi1kw1">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi1kw2">
+      <ptr type="INISTForm" target="#ikwfr4"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : hydroxyphosphate naturel de strontium, fer et aluminium</note>
+   </span>
+   <span from="#p3mi1kw3">
+      <fs>
+         <f name="pertinence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi1kw4">
+      <ptr type="INISTForm" target="#ikwfr15"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi1kw5">
+      <fs>
+         <f name="pertinence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi1kw6">
+      <ptr type="INISTForm" target="#ikwfr1"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : structure cristalline</note>
+   </span>
+   <span from="#p3mi1kw7">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi1kw8">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : hydroxyphosphate naturel de strontium, fer et aluminium</note>
+   </span>
+   <span from="#p3mi1kw9">
+      <ptr type="preferredForm" target="#p3mi1kw7"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi1kw10">
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+</ns:listAnnotation>
+<ns:listAnnotation type="silence">
+   <span from="#ikwfr1">
+      <ptr type="TermithForm" target="#p3mi1kw6"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr2">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : nouvel hydroxyphosphate naturel</note>
+   </span>
+   <span from="#ikwfr3">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr4">
+      <ptr type="TermithForm" target="#p3mi1kw2"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr5">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr6">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr7">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : monocristal</note>
+   </span>
+   <span from="#ikwfr8">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : paramètres de maille</note>
+   </span>
+   <span from="#ikwfr9">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr10">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr11">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr12">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr13">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr14">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr15">
+      <ptr type="TermithForm" target="#p3mi1kw4"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr16">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+</ns:listAnnotation>
+</ns:standOff>
+</ns:standOff>
+<ns:standOff type="p3mi4">
+<teiHeader>
+<fileDesc>
+   <titleStmt>
+      <title>Indexation TermITH</title>
+      <author role="IndexingEditor">LINA</author>
+   </titleStmt>
+   <publicationStmt>
+      <distributor>INIST-CNRS</distributor>
+      <distributor>LINA</distributor>
+      <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+      <availability>
+         <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+      </availability>
+   </publicationStmt>
+   <sourceDesc>
+      <p>Indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+         générée automatiquement dans le cadre du projet TermITH</p>
+   </sourceDesc>
+</fileDesc>
+<encodingDesc>
+   <appInfo>
+      <application ident="lina-3:notice:kea:sequences_nom_adj" version="1.0">
+         <label>lina-3:notice:kea:sequences_nom_adj</label>
+      </application>
+   </appInfo>
+</encodingDesc>
+</teiHeader>
+<!-- termes-cles -->
+<ns:listAnnotation>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw1">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">structure</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw2">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">strontium</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw3">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">nouvel hydroxyphosphate naturel</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw4">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">structure cristalline</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw5">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">lulzacite</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw6">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">fer</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw7">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">aluminium</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw8">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">2al4</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw9">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">sr2fe</term>
+      </tig>
+   </langSet>
+</termEntry>
+<termEntry xmlns="http://www.tbx.org" xml:id="p3mi4kw10">
+   <langSet xml:lang="fr">
+      <tig>
+         <term xmlns="http://www.tei-c.org/ns/1.0">fe0,63mg0,37</term>
+      </tig>
+   </langSet>
+</termEntry>
+</ns:listAnnotation>
+<ns:standOff type="p3mi4-eval">
+<!--standOff subordonné au standOff principal-->
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Évaluation indexation</title>
+         <author role="IndexingEvaluator">INIST-CNRS</author>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>INIST-CNRS</distributor>
+         <distributor>LINA</distributor>
+         <distributor>ATILF (Analyse et Traitement Informatique de la Langue Française)</distributor>
+         <availability>
+            <licence target="http://creativecommons.org/licenses/by/4.0/" corresp="#licenceCC"/>
+         </availability>
+      </publicationStmt>
+      <sourceDesc>
+         <p>Evaluation de l'indexation (phase 3, méthode 4) du document <ref target="#inistIdentifier"/> 
+            générée automatiquement dans le cadre du projet TermITH</p>
+      </sourceDesc>
+   </fileDesc>
+   <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+      <appInfo>
+      <!--nom de l'outil d'évaluation-->
+         <application ident="idefix" version="7.9.1">
+            <label>idefix</label>
+         </application>
+      </appInfo>
+   </encodingDesc>
+</teiHeader>
+<ns:listAnnotation type="pertinence">
+   <span from="#p3mi4kw1">
+      <ptr type="preferredForm" target="#p3mi4kw4"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi4kw2">
+      <ptr type="INISTForm" target="#ikwfr4"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : hydroxyphosphate naturel de strontium, fer et aluminium</note>
+   </span>
+   <span from="#p3mi4kw3">
+      <ptr type="INISTForm" target="#ikwfr2"/>
+      <ptr type="INISTForm" target="#ikwfr16"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi4kw4">
+      <ptr type="INISTForm" target="#ikwfr1"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi4kw5">
+      <ptr type="INISTForm" target="#ikwfr15"/>
+      <fs>
+         <f name="pertinence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi4kw6">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : hydroxyphosphate naturel de strontium, fer et aluminium</note>
+   </span>
+   <span from="#p3mi4kw7">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : hydroxyphosphate naturel de strontium, fer et aluminium</note>
+   </span>
+   <span from="#p3mi4kw8">
+      <fs>
+         <f name="pertinence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi4kw9">
+      <fs>
+         <f name="pertinence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#p3mi4kw10">
+      <fs>
+         <f name="pertinence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(P) Forme préférée dans le texte : Sr2Fe(Fe0,63Mg0,37)2Al4(PO4)4(OH)10</note>
+   </span>
+</ns:listAnnotation>
+<ns:listAnnotation type="silence">
+   <span from="#ikwfr1">
+      <ptr type="TermithForm" target="#p3mi4kw4"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr2">
+      <ptr type="TermithForm" target="#p3mi4kw3"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr3">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr4">
+      <ptr type="TermithForm" target="#p3mi4kw2"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr5">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr6">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr7">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : monocristal</note>
+   </span>
+   <span from="#ikwfr8">
+      <fs>
+         <f name="silence">
+            <numeric value="2"/>
+         </f>
+      </fs>
+      <note>(S) Forme variante dans le texte : paramètres de maille</note>
+   </span>
+   <span from="#ikwfr9">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr10">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr11">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr12">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr13">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr14">
+      <fs>
+         <f name="silence">
+            <numeric value="1"/>
+         </f>
+      </fs>
+      <note>(S) Implicite.</note>
+   </span>
+   <span from="#ikwfr15">
+      <ptr type="TermithForm" target="#p3mi4kw5"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+   <span from="#ikwfr16">
+      <ptr type="TermithForm" target="#p3mi4kw3"/>
+      <fs>
+         <f name="silence">
+            <numeric value="0"/>
+         </f>
+      </fs>
+   </span>
+</ns:listAnnotation>
+</ns:standOff>
+</ns:standOff>
+</ns:standOff>
+</TEI>
