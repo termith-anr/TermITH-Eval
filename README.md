@@ -1,3 +1,3 @@
 # TermITH-Eval
 
-Les corpus LREC
+Les corpus présentés à LREC
